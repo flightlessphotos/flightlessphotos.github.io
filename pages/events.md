@@ -14,7 +14,8 @@ We are please to offer our services for
  - Public Events
  - Private Gatherings
  - Corporate Events
- - Parties
+ - Music Festivals
+ - Parties of any size
 
 Please Note: We are not currently booking weddings, except for "B-roll" (i.e. no primary photography). 
 We apologize for the inconvenience and appreciate your understanding.
