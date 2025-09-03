@@ -1,0 +1,9 @@
+---
+layout: post
+title: "The Wild Rumpus"
+author: "Dan"
+categories: events
+tags: [sample]
+image: 2024-06-14-wild-rumpus.jpg
+external_url: https://flightless.smugmug.com/2024-Wlid-Rumpus
+---
