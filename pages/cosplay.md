@@ -12,4 +12,4 @@ Flightless Photos has been performing free impromptu professional hallshots for 
 Simply mention FlightlessPhotos.com or tag @flightless.photos on Instagram. 📸 
 Permission to use individual photos is granted to the people appearing in those photos, licensed under a Create Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). 
 All other use, including use in algorithm training or facial recognition data sets, is strictly forbidden unless explicitly granted by the copyright holder. 
-Visit (https://creativecommons.org/licenses/by-sa/4.0)[https://creativecommons.org/licenses/by-sa/4.0] for more information.
+Visit [https://creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0) for more information.
