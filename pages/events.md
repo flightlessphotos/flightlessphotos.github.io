@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Events
+title: Event Photography
 category: events
 permalink: /events
 ---
