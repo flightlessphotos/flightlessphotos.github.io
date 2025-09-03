@@ -5,7 +5,7 @@ category: cosplay
 permalink: /cosplay
 ---
 
-You have spent hours crafting your cosplay, now let us help you show off your talent with professional photography!  We are now booking affordable, private, cosplay photoshoots in the Boston area year round. We love cosplay! 
+You have spent hours crafting your cosplay, now let us help you show off your talent with professional photography to have you looking your best!  We are now booking affordable, private, cosplay photoshoots in the Boston area year round. If you like the picture we took of you at the con, you will love what we can do for you with a dedicated photo shoot. We love cosplay! 
 
 <h2>Events and Conventions</h2>
 Flightless Photos has been performing free impromptu professional hallshots for cosplayers since 2018. If we took your picture, we would love for you to use it however you would like! 
