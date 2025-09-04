@@ -16,19 +16,21 @@ Our photos our planned out, taken with professional lighting and camera equipmen
 
 ## "I don't look good in pictures."
 
+<p>
 If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
 You are not alone, lots of people do not naturally feel comfortable in front of a camera, but we can help you be confident and relaxed.
 We will guide you through every step of the process, including what to wear and how to pose.
 We see the beauty in everyone, and want to help you find it.
 Having your picture taken can be fun, let us prove it to you!
-
+</p>
 </div>
 <div class="skew-c"></div>
 <div class="colour-block">
 
 ## Professional Head Shots
-
+<p>
 Get an up-to-date head shot that is perfect for social media profile pictures and avatars, speaker/author bios, and websites!
+</p>
 
 </div>
 <div class="skew-cc"></div>
