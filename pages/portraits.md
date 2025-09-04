@@ -9,10 +9,12 @@ permalink: /portraits
 
 <!-- Anyone can take your picture with a cellphone, but it just is no professional photography! -->
 <p>
+
+<br/>
 Our photos our planned out, taken with professional lighting and camera equipmenet, and hand edited for the perfect look.
 </p>
 </div>
-<!-- <div class="skew-cc"></div> -->
+<div class="skew-cc"></div>
 <div class="white-block">
 
 <h1> "I don't look good in pictures." </h1>
