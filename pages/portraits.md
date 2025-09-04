@@ -8,13 +8,14 @@ permalink: /portraits
 <div class="colour-block">
 
 <!-- Anyone can take your picture with a cellphone, but it just is no professional photography! -->
+<p>
 Our photos our planned out, taken with professional lighting and camera equipmenet, and hand edited for the perfect look.
-
+</p>
 </div>
 <div class="skew-cc"></div>
 <div class="white-block">
 
-## "I don't look good in pictures."
+<h1> "I don't look good in pictures." </h1>
 
 <p>
 If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
@@ -27,7 +28,7 @@ Having your picture taken can be fun, let us prove it to you!
 <div class="skew-c"></div>
 <div class="colour-block">
 
-## Professional Head Shots
+<h2> Professional Head Shots< /h2>
 <p>
 Get an up-to-date head shot that is perfect for social media profile pictures and avatars, speaker/author bios, and websites!
 </p>
