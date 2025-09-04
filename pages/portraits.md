@@ -28,7 +28,7 @@ Having your picture taken can be fun, let us prove it to you!
 <!-- <div class="skew-c"></div> -->
 <div class="colour-block">
 
-<h1> Professional Head Shots< /h1>
+<h1> Professional Head Shots </h1>
 <p>
 Get an up-to-date head shot that is perfect for social media profile pictures and avatars, speaker/author bios, and websites!
 </p>
@@ -38,6 +38,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="white-block">
  
 <h1> Family Portraits </h1>
+<p></p>
 
 </div>
 <!-- <div class="skew-c"></div> -->
