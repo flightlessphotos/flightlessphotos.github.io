@@ -3,9 +3,16 @@ layout: page
 title: Portrait Photography
 permalink: /portraits
 ---
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/skew.css">
+<div class="skew-c"></div>
+<div class="colour-block">
 
 <!-- Anyone can take your picture with a cellphone, but it just is no professional photography! -->
 Our photos our planned out, taken with professional lighting and camera equipmenet, and hand edited for the perfect look.
+
+</div>
+<div class="skew-cc"></div>
+<div class="white-block">
 
 ## "I don't look good in pictures."
 
@@ -15,17 +22,42 @@ We will guide you through every step of the process, including what to wear and 
 We see the beauty in everyone, and want to help you find it.
 Having your picture taken can be fun, let us prove it to you!
 
+</div>
+<div class="skew-c"></div>
+<div class="colour-block">
+
 ## Professional Head Shots
 
 Get an up-to-date head shot that is perfect for social media profile pictures and avatars, speaker/author bios, and websites!
 
+</div>
+<div class="skew-cc"></div>
+<div class="white-block">
+ 
 ## Family Portraits
+
+</div>
+<div class="skew-c"></div>
+<div class="colour-block">
 
 ## Personality Photos
 
+</div>
+<div class="skew-cc"></div>
+<div class="white-block">
+
 ## Maternity
+
+</div>
+<div class="skew-c"></div>
+<div class="colour-block">
  
 ## [Cosplay]({{ site.github.url }}/cosplay)
+
+</div>
+<div class="skew-cc"></div>
+<div class="white-block">
  
 ## Pets
 
+</div>
