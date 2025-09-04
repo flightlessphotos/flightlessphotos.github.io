@@ -4,7 +4,7 @@ title: Portrait Photography
 permalink: /portraits
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/skew.css">
-<div class="skew-c"></div>
+<!-- <div class="skew-c"></div> -->
 <div class="colour-block">
 
 <!-- Anyone can take your picture with a cellphone, but it just is no professional photography! -->
@@ -44,19 +44,22 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <!-- <div class="skew-c"></div> -->
 <div class="colour-block">
 
-## Personality Photos
+<h2> Personality Photos </h2>
+<p></p>
 
 </div>
 <!-- <div class="skew-cc"></div> -->
 <div class="white-block">
 
-## Maternity
+<h2> Maternity </h2>
+<p></p>
 
 </div>
 <!-- <div class="skew-c"></div> -->
 <div class="colour-block">
  
-## [Cosplay]({{ site.github.url }}/cosplay)
+<h2> Cosplay </h2>
+<p></p>
 
 </div>
 <!-- <div class="skew-cc"></div> -->
