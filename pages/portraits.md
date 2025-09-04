@@ -17,7 +17,7 @@ Having your picture taken can be fun, let us prove it to you!
 
 ## Professional Head Shots
 
-Perfect for social media profile pictures and avatars, speaker/author bios, and websites!
+Get an up-to-date head shot that is perfect for social media profile pictures and avatars, speaker/author bios, and websites!
 
 ## Family Portraits
 
