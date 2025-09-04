@@ -12,7 +12,7 @@ permalink: /portraits
 Our photos our planned out, taken with professional lighting and camera equipmenet, and hand edited for the perfect look.
 </p>
 </div>
-<div class="skew-cc"></div>
+<!-- <div class="skew-cc"></div> -->
 <div class="white-block">
 
 <h1> "I don't look good in pictures." </h1>
@@ -25,40 +25,40 @@ We see the beauty in everyone, and want to help you find it.
 Having your picture taken can be fun, let us prove it to you!
 </p>
 </div>
-<div class="skew-c"></div>
+<!-- <div class="skew-c"></div> -->
 <div class="colour-block">
 
-<h2> Professional Head Shots< /h2>
+<h1> Professional Head Shots< /h1>
 <p>
 Get an up-to-date head shot that is perfect for social media profile pictures and avatars, speaker/author bios, and websites!
 </p>
 
 </div>
-<div class="skew-cc"></div>
+<!-- <div class="skew-cc"></div> -->
 <div class="white-block">
  
-## Family Portraits
+<h1> Family Portraits </h1>
 
 </div>
-<div class="skew-c"></div>
+<!-- <div class="skew-c"></div> -->
 <div class="colour-block">
 
 ## Personality Photos
 
 </div>
-<div class="skew-cc"></div>
+<!-- <div class="skew-cc"></div> -->
 <div class="white-block">
 
 ## Maternity
 
 </div>
-<div class="skew-c"></div>
+<!-- <div class="skew-c"></div> -->
 <div class="colour-block">
  
 ## [Cosplay]({{ site.github.url }}/cosplay)
 
 </div>
-<div class="skew-cc"></div>
+<!-- <div class="skew-cc"></div> -->
 <div class="white-block">
  
 ## Pets
