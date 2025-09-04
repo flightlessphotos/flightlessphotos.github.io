@@ -14,7 +14,7 @@ permalink: /portraits
 Our photos our planned out, taken with professional lighting and camera equipmenet, and hand edited for the perfect look.
 </p>
 </div>
-<div class="skew-cc"></div>
+<!-- <div class="skew-cc"></div> -->
 <div class="white-block">
 
 <h1> "I don't look good in pictures." </h1>
@@ -67,6 +67,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <!-- <div class="skew-cc"></div> -->
 <div class="white-block">
  
-## Pets
+<h2> Pets </h2>
+<p></p>
 
 </div>
