@@ -4,7 +4,7 @@ title: Portrait Photography
 permalink: /portraits
 ---
 
-Anyone can take your picture with a cellphone, but it just is no professional photography!
+<!-- Anyone can take your picture with a cellphone, but it just is no professional photography! -->
 Our photos our planned out, taken with professional lighting and camera equipmenet, and hand edited for the perfect look.
 
 ## "I don't look good in pictures."
