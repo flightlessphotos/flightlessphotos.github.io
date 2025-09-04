@@ -10,7 +10,7 @@ Our photos our planned out, taken with professional lighting and camera equipmen
 ## "I don't look good in pictures."
 
 If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
-You are not alone, lots of people do not naturally feel comfortable in front of a camera, but we can help you feel comfortable, relaxed, and confident.
+You are not alone, lots of people do not naturally feel comfortable in front of a camera, but we can help you be confident and relaxed.
 We will guide you through every step of the process, including what to wear and how to pose.
 We see the beauty in everyone, and want to help you find it.
 Having your picture taken can be fun, let us prove it to you!
