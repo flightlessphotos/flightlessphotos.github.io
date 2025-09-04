@@ -8,6 +8,8 @@ We offer the following portrait services
 
 ## Professional Head Shots
 
+Perfect for social media profile pictures and avatars, speaker/author bios, and websites!
+
 ## Family Portraits
 
 ## Personality Photos
