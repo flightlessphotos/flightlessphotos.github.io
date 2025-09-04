@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Cosplay
+title: Cosplay Photography
 category: cosplay
 permalink: /cosplay
 ---
