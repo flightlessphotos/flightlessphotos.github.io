@@ -6,6 +6,10 @@ permalink: /booking
 
 ## Coming Soon
 
+<b>Don't Panic...</b> But yes, photography costs money. 
+You are worth it! 
+(And also, if you think about how much work we put in, it isn't very expensive)
+
 Cost includes
 
  - Phone Consultation
