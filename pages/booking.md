@@ -7,7 +7,7 @@ permalink: /booking
 ## Coming Soon
 
 <b>Don't Panic...</b> But yes, photography costs money. 
-AND also, you are worth it! 
+AND, you are worth it! 
 (Plus, if you think about how much training and practice we have invested in, the work it takes before/during/after the photoshoot, and how much the equipment and software costs, it really isn't that expensive)
 
 Cost includes
