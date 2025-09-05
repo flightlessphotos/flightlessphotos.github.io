@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portrait Photography
-permalink: /portraits
+permalink: /portraits2
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/skew.css">
 <!-- <div class="skew-cc"></div> -->
