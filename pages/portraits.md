@@ -68,6 +68,9 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
  
 <h2> Outdoor and Adventure Sports </h2>
-<p></p>
+<p> Dan is an avid outdoor adventurer with many years of expertise in climbing, white water kayaking, mountaineering, skiing, and caving, as well as experience downhill mountain biking, open water diving, canyoneering, sky diving, jumping off bridges, and street luge. 
+Far from being a potential liability, Dan can join your group as a self-supported memeber, a consultant, or a collaborator. 
+If you want photos of your inheriently dangerous activities in remote locations, Dan can get there with you to make sure it looks epic (regardless of the outcome)!
+</p>
 
 </div>
