@@ -64,7 +64,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <p></p>
 
 </div>
-<div class="color-block">
+<div class="white-block">
 
  
 <h2> Outdoor and Adventure Sports </h2>
