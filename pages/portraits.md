@@ -54,12 +54,12 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
  
 <h2> Cosplay </h2>
-<div style="float:left">
+<div class="box">
  Dan and his wife, Vicki, are both cosplayers and can frequently be seen at conventions in costume! 
  They can both remember the first time went to New York Comic Con in cosplay, and had someone ask to take their picture - it was the highest complement imaginable! 
  As both a cosplayer and a photographer, Dan enjoys giving other cosplayers the joy and satisfaction of having their hard work be recognized and appreciated by seeking out great cosplayers and photographing them at conventions.
 </div>
-<div style="float:left;"><img src="{{ site.github.url }}/assets/img/cosplay-rey.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay-rey.jpg"/></div>
 
 </div>
 <div class="color-block">
