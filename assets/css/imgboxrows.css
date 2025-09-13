@@ -4,7 +4,7 @@
 }
 
 /* Rows with 2 column box format */
-@media (min-width: $container-width){ 
+@media (min-width: 770px){ 
     
     .row {
         display: flex;
@@ -47,7 +47,7 @@
 } /* End Rows with 2 column box format */ 
 
 /* Cell Phone Format */
-@media (max-width: $container-width){ 
+@media (max-width: 770px){ 
 
     .row {
         display: block;
