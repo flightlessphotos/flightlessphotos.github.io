@@ -9,9 +9,7 @@ permalink: /portraits
 <div class="white-block">
 <div class="row">
 
-<div class="box">
 Our photos feature bespoke compositions, are illuminated with professional lighting, captured using precision camera equipment, and hand edited to deliver your perfect look.
-</div> <!-- end box -->
 
 </div> <!-- end row -->
 </div> <!-- end white-block -->
