@@ -5,9 +5,17 @@
   color:#fff;
 }
 
+.color-block a {
+  color:#fff;
+}
+
 .white-block {
   background:#fff;
   width:80%;
   padding:7% 10% 10% 10%;
+  color:#000000;
+}
+
+.white-block a {
   color:#000000;
 }
