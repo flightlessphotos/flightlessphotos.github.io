@@ -12,6 +12,8 @@ Our photos our planned out, taken with professional lighting and camera equipmen
 </p>
  
 </div>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="color-block">
 
 <h2> "I don't look good in pictures." </h2>
@@ -24,6 +26,8 @@ Having your picture taken can be fun, let us prove it to you!
 </p>
 
 </div>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
 
 <h2> Professional Head Shots </h2>
@@ -32,26 +36,36 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 </p>
 
 </div>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="color-block">
 
 <h2> Family Portraits </h2>
 <p></p>
 
 </div>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
 
 <h2> Personality Photos </h2>
 <p></p>
 
 </div>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="color-block">
+<div class="row">
 
-
+<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>
+<div class="box">
 <h2> Maternity </h2>
-<p></p>
+</div> <!-- end box -->
 
-</div>
+</div> <!-- end row -->
+</div><!-- end color-block -->
 
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
 <div class="row">
  
@@ -68,10 +82,11 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="color-block">
 <div class="row">
 
-<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/cosplay-rey.jpg')"></div>
+<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/pets-rogerwhitebg.jpg')"></div>
 <div class="box">
 <h2> Pets </h2>
 Everyone has their own unique personality, including our favorite furry friends. 
