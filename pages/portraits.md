@@ -47,7 +47,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="color-block">
 
 <h2> Family Portraits </h2>
-<p></p>
+<a href="{{ site.github.url }}/family">Learn more...</a>
 
 </div> <!-- end color-block -->
 
