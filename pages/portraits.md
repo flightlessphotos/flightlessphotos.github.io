@@ -60,6 +60,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>
 <div class="box">
 <h2> Maternity </h2>
+ <a href="{{ site.github.url }}/maternity">Learn more...</a>
 </div> <!-- end box -->
 
 </div> <!-- end row -->
@@ -89,7 +90,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/pets-rogerwhitebg.jpg')"></div>
 <div class="box">
 <h2> Pets </h2>
-Everyone has their own unique personality, including our favorite furry friends. 
+Everyone has their own unique personality, including our favorite furry friends.  <a href="{{ site.github.url }}/pets">Learn more...</a>
 </div> <!-- end box -->
  
 </div> <!-- end row -->
