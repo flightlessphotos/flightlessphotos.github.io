@@ -55,7 +55,8 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="white-block">
 
 <h2> Personality Photos </h2>
-<p></p>
+<a href="{{ site.github.url }}/personality">Learn more...</a>
+
 
 </div> <!-- end white-block -->
 
