@@ -54,6 +54,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
 <div class="white-block">
 <div class="row">
+ 
 <div class="box">
 <h2> Cosplay </h2>
  Dan and his wife, Vicki, are both cosplayers and can frequently be seen at conventions in costume! 
@@ -62,19 +63,23 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <a href="{{ site.github.url }}/cosplay">Learn more...</a>
 </div> <!-- End box -->
 <div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/cosplay-rey.jpg')"></div>
-
 <!--<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay-rey.jpg"/></div>-->
 
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
 <div class="color-block">
+<div class="row">
 
- 
+<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/cosplay-rey.jpg')"></div>
+<div class="box">
 <h2> Pets </h2>
-<p></p>
+Everyone has their own unique personality, including our favorite furry friends. 
+</div> <!-- end box -->
+ 
+</div> <!-- end row -->
+</div> <!-- end color-block -->
 
-</div>
 <div class="white-block">
 
  
