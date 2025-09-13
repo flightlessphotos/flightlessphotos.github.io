@@ -7,11 +7,14 @@ permalink: /portraits
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
 
 <div class="white-block">
-<p>
-Our photos our planned out, taken with professional lighting and camera equipment, and hand edited for the perfect look.
-</p>
- 
-</div>
+<div class="row">
+
+<div class="box">
+Our photos feature bespoke compositions, are illuminated with professional lighting, captured using precision camera equipment, and hand edited to deliver your perfect look.
+</div> <!-- end box -->
+
+</div> <!-- end row -->
+</div> <!-- end white-block -->
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="color-block">
@@ -32,13 +35,15 @@ Having your picture taken can be fun, let us prove it to you!
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
+<div class="row">
 
+<div class="box">
 <h2> Professional Head Shots </h2>
-<p>
 Get an up-to-date head shot that is perfect for social media profile pictures and avatars, speaker/author bios, and websites!
-</p>
+</div> <!-- end box -->
 
-</div>
+</div> <!-- end row -->
+</div> <!-- end white-block -->
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="color-block">
@@ -46,7 +51,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <h2> Family Portraits </h2>
 <p></p>
 
-</div>
+</div> <!-- end color-block -->
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
@@ -54,7 +59,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <h2> Personality Photos </h2>
 <p></p>
 
-</div>
+</div> <!-- end white-block -->
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="color-block">
