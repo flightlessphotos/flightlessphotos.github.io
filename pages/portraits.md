@@ -4,6 +4,7 @@ title: Portrait Photography
 permalink: /portraits
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
 
 <div class="white-block">
 <p>
@@ -50,18 +51,22 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <p></p>
 
 </div>
-<div class="white-block">
 
- 
-<h2> Cosplay </h2>
+<div class="white-block">
+<div class="row">
 <div class="box">
+<h2> Cosplay </h2>
  Dan and his wife, Vicki, are both cosplayers and can frequently be seen at conventions in costume! 
  They can both remember the first time went to New York Comic Con in cosplay, and had someone ask to take their picture - it was the highest complement imaginable! 
  As both a cosplayer and a photographer, Dan enjoys giving other cosplayers the joy and satisfaction of having their hard work be recognized and appreciated by seeking out great cosplayers and photographing them at conventions.
-</div>
-<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay-rey.jpg"/></div>
+</div> <!-- End box -->
+<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/cosplay-rey.jpg')"></div>
 
-</div>
+<!--<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay-rey.jpg"/></div>-->
+
+</div> <!-- end row -->
+</div> <!-- end white-block -->
+
 <div class="color-block">
 
  
