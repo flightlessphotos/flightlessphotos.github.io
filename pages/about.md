@@ -4,19 +4,8 @@ title: About
 permalink: /about
 ---
 
-Dan is a Boston-based professional photographer specializing in portraits, cosplay, outdoor activities, and pets! 
+Dan is a New England (Boston-based) professional photographer specializing in portraits, cosplay, outdoor activities, and pets! 
 He is friendly and does not bite. 
-
-## Cosplay
-
-Dan and his wife, Vicki, are both cosplayers and can frequently be seen at conventions in costume! 
-They can both remember the first time went to New York Comic Con in cosplay, and had someone ask to take their picture - it was the highest complement imaginable! 
-As both a cosplayer and a photographer, Dan enjoys giving other cosplayers the joy and satisfaction of having their hard work be recognized and appreciated by seeking out great cosplayers and photographing them at conventions.
-
-## Outdoor Aventure
-
-Dan is an avid outdoor adventurer with expertise in climbing, white water kayaking, mountaineering, skiing, and caving, as well as experience biking, diving, canyoneering, sky diving, jumping off bridges and street luge.
-If you want photos of you performing inheriently dangerous activities, Dan can get there with you and make sure it looks cool.
 
 ## Diversity and Inclusivity
 
