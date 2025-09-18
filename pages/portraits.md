@@ -18,7 +18,8 @@ Our photos feature bespoke compositions, are illuminated with professional light
 <div class="color-block">
 <div class="row">
 
-<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/portrait-as.jpg')"></div>
+<!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/portrait-as.jpg')"></div>-->
+<div class="box"><img src="{{ site.github.url }}/assets/img/portrait-as.jpg"/></div>
 <div class="box">
 <h2> "I don't look good in pictures." </h2>
 If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
@@ -64,7 +65,8 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="color-block">
 <div class="row">
 
-<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>
+<!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>-->
+<div class="box"><img src="{{ site.github.url }}/assets/img/maternity-ms.jpg"/></div>
 <div class="box">
 <h2> Maternity </h2>
  <a href="{{ site.github.url }}/maternity">Learn more...</a>
@@ -84,7 +86,8 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
  As both a cosplayer and a photographer, Dan enjoys giving other cosplayers the joy and satisfaction of having their hard work be recognized and appreciated by seeking out great cosplayers and photographing them at conventions.
 <a href="{{ site.github.url }}/cosplay">Learn more...</a>
 </div> <!-- End box -->
-<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/cosplay-rey.jpg')"></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay-rey.jpg"/></div>
+<!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/cosplay-rey.jpg')"></div>-->
 <!--<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay-rey.jpg"/></div>-->
 
 </div> <!-- end row -->
@@ -94,7 +97,8 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="color-block">
 <div class="row">
 
-<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/pets-rogerwhitebg.jpg')"></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/pets-rogerwhitebg.jpg"/></div>
+<!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/pets-rogerwhitebg.jpg')"></div>-->
 <div class="box">
 <h2> Pets </h2>
 Pets are family too, and deserve our care and attention. And photos! 
