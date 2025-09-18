@@ -46,19 +46,24 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="color-block">
-
+<div class="row">
+<div class="box"><img src="{{ site.github.url }}/assets/img/family1.jpg"/></div>
+<div class="box">
 <h2> Family Portraits </h2>
 <a href="{{ site.github.url }}/family">Learn more...</a>
-
+</div> <!-- end box -->
+</div> <!-- end row -->
 </div> <!-- end color-block -->
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
-
+<div class="row">
+<div class="box">
 <h2> Personality Photos </h2>
 <a href="{{ site.github.url }}/personality">Learn more...</a>
-
-
+</div> <!-- end box -->
+<div class="box"><img src="{{ site.github.url }}/assets/img/personality-kids1.jpg"/></div>
+</div> <!-- end row -->
 </div> <!-- end white-block -->
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
