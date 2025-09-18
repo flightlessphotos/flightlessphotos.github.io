@@ -99,18 +99,17 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 </div> <!-- end white-block -->
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!--
 <div class="color-block">
 <div class="row">
-
 <div class="box"><img src="{{ site.github.url }}/assets/img/pets-rogerwhitebg.jpg"/></div>
-<!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/pets-rogerwhitebg.jpg')"></div>-->
 <div class="box">
 <h2> Pets </h2>
 Pets are family too, and deserve our care and attention. And many, many, photos! 
 Everyone has their own unique personality, including our favorite furry friends, and we are here to help you capture those purrfect memories. 
 We are also offering our signature "Yearbook Style Pet Photos", with a variety of classic backgrounds to choose from!
 <a href="{{ site.github.url }}/pets">Learn more...</a>
-</div> <!-- end box -->
+</div> --><!-- end box -->
  
 </div> <!-- end row -->
 </div> <!-- end color-block -->
