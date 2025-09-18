@@ -1,6 +1,6 @@
 .color-block {
   background:#666666;
-  width:80%;
+  width:100%;
   padding:5% 5% 5% 5%;
   color:#fff;
 }
@@ -11,7 +11,7 @@
 
 .white-block {
   background:#fff;
-  width:80%;
+  width:100%;
   padding:5% 5% 5% 5%;
   color:#000000;
 }
