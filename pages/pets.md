@@ -8,25 +8,33 @@ permalink: /pets
 
 <div class="white-block">
 <div class="row">
-
+<div class="box">
 We understand, your pet is an important member of your family.
-
+</div> <!-- end box -->
+<div class="box"><img src="{{ site.github.url }}/assets/img/pets-burst.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
-
 <div class="color-block">
 <div class="row">
+<div class="box"><img src="{{ site.github.url }}/assets/img/pets-holiday.jpg"/></div>
+<div class="box">
+<h2>Holiday Photos</h2>
+Don't forget anyone's picture when you send out this years greeting cards!
+</div> <!-- end box -->
+</div> <!-- end row -->
+</div> <!-- end color-block -->
 
-<div class="box"><img src="{{ site.github.url }}/assets/img/pets-yearbook1.jpg"/></div>
+<div class="white-block">
+<div class="row">
 <div class="box">
 <h2> School Yearbook Pet Portraits </h2>
 We are pleased to offer our signature School Yearbook photos for your pet!
 Choose from vintage '90s and '00s style backgrounds.
 Great for creating wallet sized prints you can show off to other parents.
 </div> <!-- end box -->
-
+<div class="box"><img src="{{ site.github.url }}/assets/img/pets-yearbook1.jpg"/></div>
 </div> <!-- end row -->
-</div> <!-- end color-block -->
+</div> <!-- end white-block -->
 
 
