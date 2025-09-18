@@ -6,7 +6,7 @@
 /* Rows with 2 column box format */
 @media (min-width: 770px){ 
     
-    .row {
+   .row {
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
@@ -14,7 +14,7 @@
         justify-content: space-between;
         padding-left: 1rem; 
         padding-right: 1rem; 
-  }
+    }
   
     .box {
         display: flex;
@@ -32,9 +32,6 @@
         max-height: 500px;
         object-fit: contain;
     }
-
-
-  }
   
 } /* End Rows with 2 column box format */ 
 
