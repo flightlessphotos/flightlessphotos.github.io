@@ -5,3 +5,6 @@ permalink: /personality
 ---
 
 {% include image-gallery.html folder="/assets/img/examples/personality" %}
+
+<script type="text/javascript" src="/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="/assets/css/lightbox.css">
