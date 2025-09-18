@@ -9,6 +9,10 @@ permalink: /pets
 <div class="white-block">
 <div class="row">
 <div class="box">
+<h2>Pets are family too</h2>
+And they deserve our care, attention, and many, many, cute photos! 
+Everyone has their own unique personality, including our favorite furry friends, and we are here to help you capture those purrfect memories. 
+We are also offering our signature "Yearbook Style Pet Photos", with a variety of classic backgrounds to choose from!
 We understand, your pet is an important member of your family.
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/pets-burst.jpg"/></div>
