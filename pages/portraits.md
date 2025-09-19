@@ -33,28 +33,27 @@ Having your picture taken can be fun, let us prove it to you!
 </div> <!-- end color-block -->
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- Remove until we have more content to fill these pages
 <div class="white-block">
 <div class="row">
-
 <div class="box">
 <h2> Professional Head Shots </h2>
 Get an up-to-date head shot that is perfect for social media profile pictures and avatars, speaker/author bios, and websites!
-</div> <!-- end box -->
+</div>
+</div> 
+</div> 
 
-</div> <!-- end row -->
-</div> <!-- end white-block -->
 
-<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="color-block">
 <div class="row">
 <div class="box"><img src="{{ site.github.url }}/assets/img/family1.jpg"/></div>
 <div class="box">
 <h2> Family Portraits </h2>
 <a href="{{ site.github.url }}/family">Learn more...</a>
-</div> <!-- end box -->
-</div> <!-- end row -->
-</div> <!-- end color-block -->
-
+</div> 
+</div> 
+</div> 
+-->
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
 <div class="row">
