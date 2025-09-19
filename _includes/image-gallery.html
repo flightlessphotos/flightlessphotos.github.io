@@ -6,7 +6,13 @@
   .image-gallery a img {width: 100%; display: block; }
 </style>-->
 <style>
-  .image-gallery {
+ .image-gallery-container {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     transition: 0.2s linear;
+ }
+ .image-gallery {
      columns: 15rem 4;
      gap: 1.4rem;
   }
@@ -19,7 +25,7 @@
      transform: scale(1.01);
   }
 </style>
-
+<div class="image-gallery-container">
 <div class="image-gallery">
 {% for file in site.static_files %}
   {% if file.path contains include.folder %}
@@ -39,4 +45,5 @@
     {% endif %}
   {% endif %}
 {% endfor %}
-</div>
+</div> <!-- image-gallery -->
+</div> <!-- image-gallery-container -->
