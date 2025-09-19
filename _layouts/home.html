@@ -1,13 +1,30 @@
 ---
 layout: default
 title: Home
+carousels:
+  - images: 
+    - image: /assets/img/featured/cosplay01.jpg
+    - image: /assets/img/featured/cosplay02.jpg
+    - image: /assets/img/featured/japan01.jpg
+    - image: /assets/img/featured/maternity01.jpg
+    - image: /assets/img/featured/maternity02.jpg
+    - image: /assets/img/featured/maternity03.jpg
+    - image: /assets/img/featured/maternity04.jpg
+    - image: /assets/img/featured/outdoors01.jpg
+    - image: /assets/img/featured/pets01.jpg
+    - image: /assets/img/featured/teamlabs01.jpg
+    - image: /assets/img/featured/teamlabs02.jpg
 ---
 
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+<!--
 {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}
-
+-->
 <!-- Pagination links -->
+<!--
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
@@ -20,3 +37,4 @@ title: Home
     <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
 </div>
+-->
