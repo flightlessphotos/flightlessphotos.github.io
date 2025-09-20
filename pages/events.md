@@ -15,7 +15,7 @@ We are please to offer our services for
  - Private Gatherings
  - Corporate Events
  - Music Festivals
+ - Live Action Role-Playing Events (LARPs)
  - Parties of any size
 
 Please Note: We are not currently booking weddings, except for "B-roll" (i.e. no primary photography). 
-We apologize for the inconvenience and appreciate your understanding.
