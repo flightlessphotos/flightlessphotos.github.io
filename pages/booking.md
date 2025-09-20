@@ -10,7 +10,7 @@ I'm excited to work with you! You can get in touch with me via
 - Email <a href="mailto:dan@flightlessphotos.com">dan@flightlessphotos.com</a>
 - Text or Call <a href="tel:3047294636">(304) 729-4636</a>
 
-## What to expect
+## General Booking - What to expect
 
 1. <b>Contact me</b> - We are working on getting online booking up and running, but in the mean time just shoot me an email, text message, or give me a call. All you need to do is let me know your name and a good way to get back in touch with you!
 2. <b>Free Consultation</b> - We will discuss what kind of photos you are looking for, where you would like to take them, and other details about what the photoshoot would be like. Absolutely no pressure to commit to anything!
