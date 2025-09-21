@@ -85,7 +85,8 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="box">
 <h2> Sports Portraits </h2>
 Sports were invented to make people look really cool. 
-Get ready to impress your friends!
+You might be good, but do you have pictures complete with colored lights and smoke to back it up?
+Get ready to impress your friends with photos from our sports photoshoot!
 <a href="{{ site.github.url }}/sports">Learn more</a>
 </div>
 <div class="box"><img src="{{ site.github.url }}/assets/img/examples/sports/DSC03676.jpg"/></div>
