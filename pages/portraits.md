@@ -78,7 +78,19 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
 </div> <!-- end row -->
 </div><!-- end color-block -->
-
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<div class="white-block">
+<div class="row">
+ 
+<div class="box">
+<h2> Sports </h2>
+Sports were invented to make people look really cool. 
+Let's impress your friends!
+<a href="{{ site.github.url }}/sports">Learn more</a>
+</div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/sports/DSC03676.jpg"/></div>
+</div>
+</div>
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
 <div class="row">
@@ -89,13 +101,10 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
  They can both remember the first time went to New York Comic Con in cosplay, and had someone ask to take their picture - it was the highest complement imaginable! 
  As both a cosplayer and a photographer, Dan enjoys giving other cosplayers the joy and satisfaction of having their hard work be recognized and appreciated by seeking out great cosplayers and photographing them at conventions.
 <a href="{{ site.github.url }}/cosplay">Learn more...</a>
-</div> <!-- End box -->
+</div> 
 <div class="box"><img src="{{ site.github.url }}/assets/img/cosplay-rey.jpg"/></div>
-<!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/cosplay-rey.jpg')"></div>-->
-<!--<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay-rey.jpg"/></div>-->
-
-</div> <!-- end row -->
-</div> <!-- end white-block -->
+</div> 
+</div> 
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--
