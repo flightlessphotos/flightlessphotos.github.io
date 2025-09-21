@@ -10,9 +10,16 @@ You have pushed yourself to be the best you can be, and it has paid off.
 Having been an athlete myself, I get it. 
 I know the passion that drives you.
 I know about the heat, the pain, and the exhaustion you feel.
-And I also know the feelings of accomplishment, triumph, and pride!
+And I also know the feelings of accomplishment, triumph, and pride that follow!
 I understand what this means to you.
 It is not just a sport, it is an important part of who you are. 
+
+When it comes to capturing who you are, you deserve nothing less than the best.
+You have earned this.
+I take you and your passion just as seriously as you take training, and I am committed to delivering images showcasing both you and your skills.
+Photographs you can be proud of, forever.
+Because these are not just pictures, they are a testament to your passion, and everything you have poured into it. 
+
 
 {% include image-gallery.html folder="/assets/img/examples/sports" %}
 
