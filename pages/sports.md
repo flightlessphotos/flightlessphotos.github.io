@@ -20,7 +20,7 @@ I take you and your passion just as seriously as you take training, and I am com
 Photographs you can be proud of, forever.
 Because these are not just pictures, they are a testament to your passion, and everything you have poured into it. 
 
-Baseball, Basketball, Biking, Crew, Cross Country, Cheerleading, Climbing, Dance, Diving, Football, Golf, Gymnastics, Hockey, Lacrosse, Lifting, Paddling & Rowing, Skating, Skiing & Snowboarding, Soccer, Softball, Swimming, Track & Field, Volleyball, Water Polo, Wrestling.
+Baseball, Basketball, Biking, Crew, Cross Country, Cheerleading, Climbing, Dance, Diving, Fencing, Football, Golf, Gymnastics, Hockey, Lacrosse, Lifting, Paddling & Rowing, Skating, Skiing & Snowboarding, Soccer, Softball, Swimming, Tennis, Track & Field, Ultimate, Volleyball, Water Polo, Wrestling.
 We take all sports seriously. 
 
 {% include image-gallery.html folder="/assets/img/examples/sports" %}
