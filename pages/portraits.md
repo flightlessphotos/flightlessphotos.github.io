@@ -88,10 +88,11 @@ Sports were invented to make people look really cool.
 Let's impress your friends!
 <a href="{{ site.github.url }}/sports">Learn more</a>
 </div>
-<div class="box"><img src="{{ site.github.url }}/assets/img/sports/DSC03676.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/examples/sports/DSC03676.jpg"/></div>
 </div>
 </div>
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<!--
 <div class="white-block">
 <div class="row">
  
@@ -105,7 +106,7 @@ Let's impress your friends!
 <div class="box"><img src="{{ site.github.url }}/assets/img/cosplay-rey.jpg"/></div>
 </div> 
 </div> 
-
+-->
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--
 <div class="color-block">
