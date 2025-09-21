@@ -58,7 +58,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="white-block">
 <div class="row">
 <div class="box">
-<h2> Personality Photos </h2>
+<h2> Kids Personality Portraits </h2>
 <a href="{{ site.github.url }}/personality">Learn more...</a>
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/personality-kids1.jpg"/></div>
