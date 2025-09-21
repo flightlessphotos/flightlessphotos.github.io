@@ -72,7 +72,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>-->
 <div class="box"><img src="{{ site.github.url }}/assets/img/maternity-ms.jpg"/></div>
 <div class="box">
-<h2> Maternity </h2>
+<h2> Maternity Portraits </h2>
  <a href="{{ site.github.url }}/maternity">Learn more...</a>
 </div> <!-- end box -->
 
@@ -83,9 +83,9 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="row">
  
 <div class="box">
-<h2> Sports </h2>
+<h2> Sports Portraits </h2>
 Sports were invented to make people look really cool. 
-Let's impress your friends!
+Get ready to impress your friends!
 <a href="{{ site.github.url }}/sports">Learn more</a>
 </div>
 <div class="box"><img src="{{ site.github.url }}/assets/img/examples/sports/DSC03676.jpg"/></div>
