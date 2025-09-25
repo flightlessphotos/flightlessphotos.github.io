@@ -4,9 +4,9 @@ title: Maternity Portraits
 permalink: /maternity
 ---
 
-To begin, <b>congratulations!</b>
 
-Let us celebrate you, your body, motherhood, your growing family, and this phase of your life!
+
+<b>Congratulations!</b> We are genuinely excited for you and your family, and are here to help celebrate you, your body, motherhood, your growing family, and this phase of your life!
 Maternity photos are all about capturing your natural glow, that anticipation, and of course - your bump!
 
 Maternity photoshoots are typically best at about 30 to 34 weeks, when your belly will be almost full size! 
