@@ -73,6 +73,8 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="box"><img src="{{ site.github.url }}/assets/img/maternity-ms.jpg"/></div>
 <div class="box">
 <h2> Maternity Portraits </h2>
+ What a truly amazing time this is for you! 
+ Your body is changing and growing with new life,
  <a href="{{ site.github.url }}/maternity">Learn more...</a>
 </div> <!-- end box -->
 
