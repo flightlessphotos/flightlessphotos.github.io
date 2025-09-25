@@ -74,7 +74,9 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="box">
 <h2> Maternity Portraits </h2>
  What a truly amazing time this is for you! 
- Your body is changing and growing with new life,
+ Your body is changing, growing with new life, and radiating beauty. 
+ You deserve to feel like the strong, beautiful, proud, and amazing mother you are already becoming!
+ We want to help you capture and preserve these momement as a memory you can cherish forever as you embark on a grand new adventure in life!
  <a href="{{ site.github.url }}/maternity">Learn more...</a>
 </div> <!-- end box -->
 
