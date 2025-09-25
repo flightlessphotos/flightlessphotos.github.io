@@ -27,7 +27,6 @@ We love our LGBTQIA+ and neurodivergent friends!
 
 
 <div class="white-block">
-<div class="row">
 <h2>Health and Safety</h2>
 I am fully vaccinated against both Covid and the Flu. 
 I typically wear a mask anytime I am indoors with other people to help prevent inadvertent disease transmission to my clients. 
@@ -36,7 +35,6 @@ For your comfort and safety, I am happy to remain masked at all times if request
 
 If you are feeling sick or have been in close contact with someone you believe may be sick, please let me know and I will gladly reschedule our shoot together to another time at your convenience and free of charge. 
   
-</div> <!-- end row -->
 </div> <!-- end white-block -->
 
 
