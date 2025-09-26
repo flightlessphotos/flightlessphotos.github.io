@@ -11,6 +11,10 @@ permalink: /contact
 <div class="white-block">
 I am honored and excited that you are interested in working with me!
 Please fill out the information below and I will get in touch with you soon.
+
+You can also contact me directly 
+- Email dan@flightlessphotos.com
+- Text or Call (304) 729-4636
 </div> <!-- end white-block -->
 
 <div class="contactform">
