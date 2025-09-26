@@ -1,0 +1,59 @@
+/* FORMS */
+
+.contactform{
+    max-width: 36rem;
+    background-color: #f8f8f8;
+}
+form {max-width: 34rem;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+form > div {padding-top: 0.8rem; clear: both;}
+form > div.half {width: 47.5%; float: left;}
+form > div.half + .half {margin-left: 5%; clear: none;}
+label {display: block; margin-bottom: 0.3rem;}
+textarea, input, select {
+    font-family: 'Open Sans'; 
+    font-size: 0.8rem; 
+    height: 1.83rem; 
+    line-height: 1rem; 
+    border: 0.0625rem solid #dddddd; 
+    border-radius: 0.25rem;
+    width: calc(100% - 1.24rem);
+    padding: 0.1875rem 0.625rem;
+    background: white;
+    color: #777777;
+}
+select {padding: 0.6rem; height: auto; line-height: 1.4; width: 100%;}
+textarea {height: auto; line-height: 1.4; min-width: calc(100% - 1.24rem); max-width: calc(100% - 1.24rem); padding: 0.6rem;}
+input[type="button"], input[type="submit"], input[type="radio"], input[type="checkbox"] {border: 0; width: auto;}
+input[type="radio"], input[type="checkbox"] {height: auto; line-height: auto; margin-right: 0.4rem; vertical-align: middle; position: relative; bottom: 0.1rem;}
+.radio {position: relative; top: 0.125rem;}
+.radio + .radio {padding-top: 0;}
+input[type='number'] {-moz-appearance: textfield;}
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {-webkit-appearance: none;}
+.btn, input[type="submit"] {
+    background: #000000; /*#d9230f; */
+    font-weight: bold; 
+    color: rgba(255,255,255,0.75); 
+    text-decoration: none;
+    padding: 0.35rem 0.7rem;
+    border: 0;
+    cursor: pointer;
+    border-radius: 0.25rem;
+}
+.btn:hover {color: rgba(255,255,255,0.9);}
+input[type="number"] {-moz-appearance: textfield;}
+input[type="number"].quantity {width: 1.5rem; min-width: 1.5rem; text-align: center;}
+input::-webkit-outer-spin-button, 
+input::-webkit-inner-spin-button {-webkit-appearance: none;}
+select::-ms-expand {display: none;}
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: white url("/img/chevron_down.svg") calc(100% - 0.8rem) 55% no-repeat;
+    background-size: auto 0.7rem;
+}
