@@ -7,6 +7,7 @@ permalink: /booking
 ## Online Booking Coming Soon!
 
 I'm excited to work with you! You can get in touch with me via
+- Our [Online Contact Form]({{ site.github.url }}/contact)
 - Email <a href="mailto:dan@flightlessphotos.com">dan@flightlessphotos.com</a>
 - Text or Call <a href="tel:3047294636">(304) 729-4636</a>
 
