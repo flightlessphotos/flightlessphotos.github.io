@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Me
+title: Contact Us
 permalink: /contact
 ---
 <style>
@@ -65,6 +65,17 @@ select {
     background-size: auto 0.7rem;
 }
 </style>
+
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
+
+<div class="white-block">
+
+
+I am honored and excited that you are interested in working with me!
+Please fill out the information below and I will get in touch with you soon.
+
+</div> <!-- end white-block -->
 
 <div class="contactform">
     <form id="contact" class="form autofill" method="POST" action="https://formspree.io/f/xqayezyj">
