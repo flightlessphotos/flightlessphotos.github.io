@@ -25,11 +25,6 @@ Please fill out the information below and I will get in touch with you soon.
 </div> <!-- end white-block -->
 
 
-
-
-</div> <!-- end white-block -->
-
-
 <div class="contactform">
     <form id="contact" class="form autofill" method="POST" action="https://formspree.io/f/xqayezyj">
         <input type="hidden" name="subject" value="New submission!">    
