@@ -60,7 +60,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="box">
 <h2> Kids Personality Portraits </h2>
  Kids grow up so fast! 
- Let's create a timeless keepsake showcasing who they are right now. 
+ Let's create a timeless keepsake showcasing who they are at this moment in their lives. 
  Instead of fake smiles or awkward poses like you get from school photos, I capture your child just being themselves - whether they are silly, shy, or full of energy!
 <a href="{{ site.github.url }}/personality">Learn more...</a>
 </div> <!-- end box -->
