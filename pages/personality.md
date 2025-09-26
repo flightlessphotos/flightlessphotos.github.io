@@ -3,10 +3,10 @@ layout: page
 title: Kids Personality Photography
 permalink: /personality
 accordion: 
-  - title: This is item 1
-    content: something about preparing kids goes here.
-  - title: this is item 2
-    content: how to get the best photos
+  - title: Plan for a fun
+    content: Bring some of their favorite toys or something that is important to them like a stuffed animal. These are important parts of who they are, and holding something comforting can make kids feel more relaxed in front of the camera. 
+  - title: Make a playlist
+    content: Please bring a playlist of your kid's favorite music! A Spotify or youtube playlist works great. We have a bluetooth speaker with a headphone jack.
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
