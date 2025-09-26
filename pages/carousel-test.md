@@ -8,5 +8,5 @@ Do not delete this page.
 {% include image-gallery.html folder="/assets/img/featured" %}
 
 <!-- Image Gallery / Lightbox Content. These go at the footer of the page. -->
-<script type="text/javascript" src="/assets/js/lightbox.js"></script>
-<link rel="stylesheet" href="/assets/css/lightbox.css">
+<script type="text/javascript" src="{{ site.github.url }}/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/lightbox.css">
