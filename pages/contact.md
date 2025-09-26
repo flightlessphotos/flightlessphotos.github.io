@@ -9,13 +9,26 @@ permalink: /contact
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
 
 <div class="white-block">
+<div class="row">
+<div class="box">
 I am honored and excited that you are interested in working with me!
 Please fill out the information below and I will get in touch with you soon.
 
-You can also contact me directly 
-- Email dan@flightlessphotos.com
-- Text or Call (304) 729-4636
+<p>You can also contact me directly </p>
+<ul>
+  <li>Email <a href="mailto:dan@flightlessphotos.com">dan@flightlessphotos.com</a></li>
+  <li>Text or Call <a href="tel:3047294636">(304) 729-4636</a></li>
+</ul>
+</div> <!-- end box -->
+<div class="box"><img src="{{ site.github.url }}/assets/img/pride.jpg"/></div>
+</div> <!-- end row -->
 </div> <!-- end white-block -->
+
+
+
+
+</div> <!-- end white-block -->
+
 
 <div class="contactform">
     <form id="contact" class="form autofill" method="POST" action="https://formspree.io/f/xqayezyj">
