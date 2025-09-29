@@ -16,7 +16,7 @@ In addition to photography, Dan also loves penguins and taking pictures of pengu
 He likes penguins so much he named his photography company after the flightless birds! 
 
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/pride.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/about/pride.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
@@ -29,7 +29,7 @@ We believe diversity is important, and proudly work with anyone regardless of so
 We love our LGBTQIA+ and neurodivergent friends!
 <!--We work with everyone except for racists, we do not work with racists. -->
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/pride.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/about/pride.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end color-block -->
 
