@@ -19,7 +19,7 @@ Our photos feature bespoke compositions, are illuminated with professional light
 <div class="row">
 
 <!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/portrait-as.jpg')"></div>-->
-<div class="box"><img src="{{ site.github.url }}/assets/img/portrait-as.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/portrait-as.jpg"/></div>
 <div class="box">
 <h2> "I don't look good in pictures." </h2>
 If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
@@ -64,7 +64,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
  Instead of fake smiles or awkward poses like you get from school photos, I capture your child just being themselves - whether they are silly, shy, or full of energy!
 <a href="{{ site.github.url }}/personality">Learn more...</a>
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/personality-kids1.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
@@ -73,7 +73,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="row">
 
 <!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>-->
-<div class="box"><img src="{{ site.github.url }}/assets/img/maternity-ms.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/maternity-ms.jpg"/></div>
 <div class="box">
 <h2> Maternity Portraits </h2>
  What a truly amazing time this is for you! 
