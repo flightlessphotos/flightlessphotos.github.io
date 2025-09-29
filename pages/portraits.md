@@ -96,7 +96,7 @@ You might be good, but do you have pictures complete with colored lights and smo
 Get ready to impress your friends with photos from our sports photoshoot!
 <a href="{{ site.github.url }}/sports">Learn more</a>
 </div>
-<div class="box"><img src="{{ site.github.url }}/assets/img/examples/sports/DSC03676.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/sports/examples/DSC03676.jpg"/></div>
 </div>
 </div>
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
