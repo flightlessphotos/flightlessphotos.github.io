@@ -128,7 +128,7 @@ Please fill out the information below and I will get in touch with you soon.
     </form>
 </div>
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/japan.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/contact/japan.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
