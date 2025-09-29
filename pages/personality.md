@@ -20,7 +20,7 @@ Kids grow up so fast! Let's create a timeless keepsake showcasing who they are r
 {% include accordion.html %}
 </div> <!-- end white-block -->
 
-{% include image-gallery.html folder="/assets/img/examples/personality" %}
+{% include image-gallery.html folder="/assets/img/personality/examples" %}
 
 <!-- Image Gallery / Lightbox Content. These go at the footer of the page. -->
 <script type="text/javascript" src="/assets/js/lightbox.js"></script>
