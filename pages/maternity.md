@@ -17,7 +17,7 @@ Our goal is for this photoshoot to make you to feel strong and beautiful, to hav
 
 
 
-{% include image-gallery.html folder="/assets/img/examples/maternity" %}
+{% include image-gallery.html folder="/assets/img/maternity/examples" %}
 
 <!-- Image Gallery / Lightbox Content. These go at the footer of the page. -->
 <script type="text/javascript" src="/assets/js/lightbox.js"></script>
