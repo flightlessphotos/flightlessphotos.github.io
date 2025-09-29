@@ -20,7 +20,7 @@ Yet somehow we manage to make it work anyway!
 
 <div class="color-block">
 <div class="row">
-<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay--rey.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay-rey.jpg"/></div>
 <div class="box">
 <h2>Your Cosplay, Fully Realized</h2>
 Your talent and hard work deserves to be showcased under the best conditions! 
