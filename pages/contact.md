@@ -7,6 +7,13 @@ permalink: /contact
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/forms.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
+<script>
+window.onbeforeunload = () => {
+  for(const form of document.getElementsByTagName('form')) {
+    form.reset();
+  }
+}
+</script>
 
 <!--
 <div class="white-block">
