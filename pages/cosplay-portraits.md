@@ -14,13 +14,13 @@ It is super fun showing off your cosplay at conventions, but it is not necessari
 Sure, everyone is super excited and the adrenaline is high, but we are all busy and in a hurry, our costumes are not in the best shape after bumping into people while walking around, your makeup isn't quite what it was this morning, you haven't been eating very healthy... (I mean, you have been eating, right?) 
 Yet somehow we manage to make it work anyway!
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/pets-burst.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay-musketeer.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
 <div class="color-block">
 <div class="row">
-<div class="box"><img src="{{ site.github.url }}/assets/img/pets-holiday.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay--rey.jpg"/></div>
 <div class="box">
 <h2>Your Cosplay, Fully Realized</h2>
 Your talent and hard work deserves to be showcased under the best conditions! 
@@ -40,6 +40,13 @@ My goal in collaborating with you is to magnify you and your character's style.
 Should it be bold, retro, dark, whimsicle? 
 My style is elevating your style.
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/pets-yearbook1.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay-chosenofbhaal.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
+
+
+{% include image-gallery.html folder="/assets/img/cosplay/examples" %}
+
+<!-- Image Gallery / Lightbox Content. These go at the footer of the page. -->
+<script type="text/javascript" src="/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="/assets/css/lightbox.css">
