@@ -6,14 +6,13 @@ permalink: /booking
 
 ## Online Booking Coming Soon!
 
-I'm excited to work with you! You can get in touch with me via
-- Our [Online Contact Form]({{ site.github.url }}/contact)
+I'm excited to work with you! For quotes or to to book a photoshoot, please fill out our [Online Contact Form]({{ site.github.url }}/contact) or get in touch with me via
 - Email <a href="mailto:dan@flightlessphotos.com">dan@flightlessphotos.com</a>
 - Text or Call <a href="tel:3047294636">(304) 729-4636</a>
 
 ## General Booking - What to expect
 
-1. <b>Contact me</b> - We are working on getting online booking up and running, but in the mean time just shoot me an email, text message, or give me a call. All you need to do is let me know your name and a good way to get back in touch with you!
+1. <b>Contact me</b> - We are working on getting our online booking up and running, but in the mean time just fill out our [contact form]({{ site.github.url }}/contact), shoot me an email, text message, or give me a call. All you need to do is let me know your name and a good way to get back in touch with you!
 2. <b>Free Consultation</b> - We will discuss what kind of photos you are looking for, where you would like to take them, and other details about what the photoshoot would be like. Absolutely no pressure to commit to anything!
 3. <b>Receive an Estimate</b> - I may need to go do some homework before I can let you know when we can do a photoshoot or how much it will cost! For example, venues and public spaces often have rules and fees when it comes to using their space for professional photography, but I will take care of figuring out all the logistics before you need to make any decisions! These are hard times, so I try to make my services as affordable as I can!
 4. **Pay the Invoice** - When you are ready, I will send you an invoice to pay, and then we can really get things started!
