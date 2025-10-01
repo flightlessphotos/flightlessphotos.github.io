@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Flightless Photos
 permalink: /about
 ---
 
