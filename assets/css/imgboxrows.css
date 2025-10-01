@@ -26,7 +26,7 @@
         margin: 0px;
         padding: 0px;
     }
-  
+    
     .box, box-img, box-text img {
         width: 100%;
         height: auto;
@@ -52,6 +52,14 @@
         padding: 0px;
     }
 
+    .box-text {
+        order: 1;
+    }
+
+    .box-img {
+        order: 2;
+    }
+    
     .box, box-img, box-text img {
         width: 80%;
         height: 80%;
