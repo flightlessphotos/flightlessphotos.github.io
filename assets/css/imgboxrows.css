@@ -16,7 +16,7 @@
         padding-right: 1rem; 
     }
   
-    .box {
+    .box, box-img, box-text {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -27,7 +27,7 @@
         padding: 0px;
     }
   
-    .box img {
+    .box, box-img, box-text img {
         width: 100%;
         height: auto;
         max-width: 500px;
@@ -44,7 +44,7 @@
         display: block;
     }
 
-    .box {
+    .box, box-img, box-text {
         display: block;
         justify-content: center;
         vertical-align: top;
@@ -52,7 +52,7 @@
         padding: 0px;
     }
 
-    .box img {
+    .box, box-img, box-text img {
         width: 80%;
         height: 80%;
         object-fit: contain;
