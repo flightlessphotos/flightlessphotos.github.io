@@ -18,7 +18,7 @@ If you like the picture I took of you at the convention, you will love what I ca
 <a href="{{ site.github.url }}/cosplay/portraits">Learn more</a>
 
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay-sabine.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/sabine-square.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
