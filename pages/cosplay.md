@@ -11,9 +11,11 @@ permalink: /cosplay
 <div class="white-block">
 <div class="row">
 <div class="box">
+<h2>Professional Photoshoots</h2>
 You have spent hours crafting your cosplay, now let me help you show off your talent with professional photography that will have you looking your best! 
 I am now booking affordable, private, cosplay photoshoots in Boston and the greater New England area year round. 
-If you like the picture I took of you at the convention, you will love what I can do for you during a dedicated photo shoot. [Learn more]({{ site.github.url }}/cosplay/portraits)
+If you like the picture I took of you at the convention, you will love what I can do for you during a dedicated photo shoot. 
+<a href="{{ site.github.url }}/cosplay/portraits">Learn more</a>
 
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay-sabine.jpg"/></div>
