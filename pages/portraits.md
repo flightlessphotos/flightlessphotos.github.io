@@ -20,7 +20,7 @@ Our photos feature bespoke compositions, are illuminated with professional light
 
 <!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/portrait-as.jpg')"></div>-->
 <div class="box-img"><img src="{{ site.github.url }}/assets/img/portraits/portrait-as.jpg"/></div>
-<div class="box-text">
+<div class="box-txt">
 <h2> "I don't look good in pictures." </h2>
 If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
 You are not alone, lots of people do not naturally feel comfortable in front of a camera, but we can help you be confident and relaxed.
@@ -57,7 +57,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
 <div class="row">
-<div class="box-text">
+<div class="box-txt">
 <h2> Kids Personality Portraits </h2>
  Kids grow up so fast! 
  Let's create a timeless keepsake showcasing who they are at this moment in their lives. 
@@ -74,7 +74,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
 <!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>-->
 <div class="box-img"><img src="{{ site.github.url }}/assets/img/portraits/maternity-ms.jpg"/></div>
-<div class="box-text">
+<div class="box-txt">
 <h2> Maternity Portraits </h2>
  What a truly amazing time this is for you! 
  Your body is changing, growing with new life, and radiating beauty. 
@@ -89,7 +89,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="white-block">
 <div class="row">
  
-<div class="box-text">
+<div class="box-txt">
 <h2> Sports Portraits </h2>
 Sports were invented to make people look really cool. 
 You might be good, but do you have pictures complete with colored lights and smoke to back it up?
