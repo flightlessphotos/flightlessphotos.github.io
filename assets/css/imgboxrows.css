@@ -16,7 +16,7 @@
         padding-right: 1rem; 
     }
   
-    .box, box-img, box-text {
+    .box, .box-img, .box-txt {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -27,7 +27,7 @@
         padding: 0px;
     }
     
-    .box, box-img, box-text img {
+    .box, .box-img, .box-txt img {
         width: 100%;
         height: auto;
         max-width: 500px;
@@ -44,7 +44,7 @@
         display: block;
     }
 
-    .box, box-img, box-text {
+    .box, .box-img, .box-txt {
         display: block;
         justify-content: center;
         vertical-align: top;
@@ -52,7 +52,7 @@
         padding: 0px;
     }
 
-    .box-text {
+    .box-txt {
         order: 1;
     }
 
@@ -60,7 +60,7 @@
         order: 2;
     }
     
-    .box, box-img, box-text img {
+    .box, .box-img, .box-txt img {
         width: 80%;
         height: 80%;
         object-fit: contain;
