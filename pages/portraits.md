@@ -19,8 +19,8 @@ Our photos feature bespoke compositions, are illuminated with professional light
 <div class="row">
 
 <!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/portrait-as.jpg')"></div>-->
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/portrait-as.jpg"/></div>
-<div class="box">
+<div class="box-img"><img src="{{ site.github.url }}/assets/img/portraits/portrait-as.jpg"/></div>
+<div class="box-text">
 <h2> "I don't look good in pictures." </h2>
 If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
 You are not alone, lots of people do not naturally feel comfortable in front of a camera, but we can help you be confident and relaxed.
@@ -57,14 +57,14 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
 <div class="row">
-<div class="box">
+<div class="box-text">
 <h2> Kids Personality Portraits </h2>
  Kids grow up so fast! 
  Let's create a timeless keepsake showcasing who they are at this moment in their lives. 
  Instead of fake smiles or awkward poses like you get from school photos, I capture your child just being themselves - whether they are silly, shy, or full of energy!
 <a href="{{ site.github.url }}/personality">Learn more...</a>
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
+<div class="box-img"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
@@ -73,8 +73,8 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="row">
 
 <!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>-->
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/maternity-ms.jpg"/></div>
-<div class="box">
+<div class="box-img"><img src="{{ site.github.url }}/assets/img/portraits/maternity-ms.jpg"/></div>
+<div class="box-text">
 <h2> Maternity Portraits </h2>
  What a truly amazing time this is for you! 
  Your body is changing, growing with new life, and radiating beauty. 
@@ -89,14 +89,14 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="white-block">
 <div class="row">
  
-<div class="box">
+<div class="box-text">
 <h2> Sports Portraits </h2>
 Sports were invented to make people look really cool. 
 You might be good, but do you have pictures complete with colored lights and smoke to back it up?
 Get ready to impress your friends with photos from our sports photoshoot!
 <a href="{{ site.github.url }}/sports">Learn more</a>
 </div>
-<div class="box"><img src="{{ site.github.url }}/assets/img/sports/examples/DSC03676.jpg"/></div>
+<div class="box-img"><img src="{{ site.github.url }}/assets/img/sports/examples/DSC03676.jpg"/></div>
 </div>
 </div>
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
