@@ -9,7 +9,7 @@ permalink: /portraits
 <div class="white-block">
 <div class="row">
 
-Our photos feature bespoke compositions, are illuminated with professional lighting, captured using precision camera equipment, and hand edited to deliver your perfect look.
+My photos feature bespoke compositions, are illuminated with professional lighting, captured using precision camera equipment, and hand edited to deliver your perfect look.
 
 </div> <!-- end row -->
 </div> <!-- end white-block -->
@@ -78,7 +78,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
  What a truly amazing time this is for you! 
  Your body is changing, growing with new life, and radiating beauty. 
  You deserve to feel like the strong, beautiful, proud, and amazing mother you are already becoming!
- We want to help you capture and preserve these momements as a memory you can cherish forever as you embark on a grand new adventure in life!
+ We want to help you capture and preserve these moments as a memory you can cherish forever as you embark on a grand new adventure in life!
  <a href="{{ site.github.url }}/maternity">Learn more...</a>
 </div> <!-- end box -->
 
