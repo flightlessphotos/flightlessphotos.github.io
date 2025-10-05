@@ -19,14 +19,11 @@ Our photos feature bespoke compositions, are illuminated with professional light
 <div class="row">
 
 
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/portrait-as.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/portrait.jpg"/></div>
 <div class="box">
-<h2> "I don't look good in pictures." </h2>
-If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
-You are not alone, lots of people do not naturally feel comfortable in front of a camera, but we can help you be confident and relaxed.
-We will guide you through every step of the process, including what to wear and how to pose.
-We see the beauty in everyone, and want to help you find it.
-Having your picture taken can be fun, let us prove it to you!
+<h2> Serving Boston and New England! </h2>
+50% OFF for First Time Customers! <br/>&nbsp;<br/>
+25% OFF a future purchase when you refer a friend! 
 </div> <!-- end box -->
 
 </div> <!-- end row -->
@@ -99,6 +96,24 @@ Get ready to impress your friends with photos from our sports photoshoot!
 <div class="box"><img src="{{ site.github.url }}/assets/img/sports/examples/DSC03676.jpg"/></div>
 </div>
 </div>
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<div class="color-block">
+<div class="row">
+
+
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/portrait-as.jpg"/></div>
+<div class="box">
+<h2> "I don't look good in pictures." </h2>
+If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
+You are not alone, lots of people do not naturally feel comfortable in front of a camera, but we can help you be confident and relaxed.
+We will guide you through every step of the process, including what to wear and how to pose.
+We see the beauty in everyone, and want to help you find it.
+Having your picture taken can be fun, let us prove it to you!
+</div> <!-- end box -->
+
+</div> <!-- end row -->
+</div> <!-- end color-block -->
+
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--
 <div class="white-block">
