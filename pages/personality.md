@@ -28,7 +28,7 @@ The best pictures of your kids are always going to be the ones where they feel f
 
 <div class="color-block">
 <div class="row">
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids2.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids2.jpg"/></div>
 <div class="box">
 <h2> Your kid, the way they are! </h2>
 Does your child like dancing? 
@@ -56,7 +56,7 @@ We use classic soft lighting techniques and a white seamless backdrop to really 
 Instead of encouraging an artificial smile, we work to capture authentically joyful moments that really express their personality. 
 The results are lifelong keepsakes that portray the true personality of your child at this moment in time.
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids4.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/personality/personality-kids4.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
