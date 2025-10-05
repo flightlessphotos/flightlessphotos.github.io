@@ -23,13 +23,13 @@ He likes penguins so much he named his photography company after the flightless 
 
 <div class="color-block">
 <div class="row">
+<div class="box"><img src="{{ site.github.url }}/assets/img/about/pride.jpg"/></div>
 <div class="box">
 <h2>Diversity and Inclusivity</h2>
 We believe diversity is important, and proudly work with anyone regardless of social and ethnic background, gender, and sexual orientations. 
 We love our LGBTQIA+ and neurodivergent friends!
 <!--We work with everyone except for racists, we do not work with racists. -->
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/about/pride.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end color-block -->
 
