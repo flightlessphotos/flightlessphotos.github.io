@@ -4,7 +4,7 @@ title: Kids Personality Photography
 permalink: /personality
 accordion: 
   - title: Preperation is Key
-    content: A little bit of planning goes a long way. 
+    content: A little bit of planning goes a long way. It is hard to be happy when you are hungry, so make sure your kid has a chance to eat before you arrive (and before they change into the outfit they will be wearing)!
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
