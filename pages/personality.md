@@ -11,6 +11,10 @@ accordion:
     content: Please bring a playlist of your kid's favorite music! A Spotify or youtube playlist works great. Dancing around is a great way to capture personality. We have a bluetooth speaker with a headphone jack.
   - title: How Do You Get the Kids to Behave?
     content: These are personality portraits, so we are only asking them to be themselves! Also, bribery. I know, I know... but it works! Promising a trip to a nearby playground or their favorite treat after the shoot  is always going to be exciting.
+  - title: What is the minimum age?
+    content: We shoot with children as young as 2.
+  - title: Can you do multiple kids at the same time?
+    content: Sibling personality photos are more challenging than individual kids, but I am willing to try! If you are wondering about booking multiple individual kids personality shoots for the same day, I do not recommend doing them back to back.
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
