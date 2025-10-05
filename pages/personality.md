@@ -5,6 +5,8 @@ permalink: /personality
 accordion: 
   - title: Preperation is Key
     content: A little bit of planning goes a long way. It is hard to be happy when you are hungry, so make sure your kid has a chance to eat before you arrive (and before they change into the outfit they will be wearing)! Please don't bring food, snacks, or drinks to the studio, or even with you in the car. That is just a disaster waiting to happen. Right after you arrive, wipe your child's face before getting out of the car. It's best to get anything unpleasant done right away so they have a chance to get past it emotionally and be ready to have fun getting their picture taken once you are inside.
+  - title: Plan for a fun time
+    content: Pack a few of their favorite toys or something that is important to them like a stuffed animal. Not only does this give your child something comforting to hold, but will also help them feel relaxed.  Keep in mind that these items might end up in the pictures, but that is ok - they are important to your kid are are a part of who they are! I promise the pictures will look super cute.
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
