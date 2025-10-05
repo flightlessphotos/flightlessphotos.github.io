@@ -21,7 +21,8 @@ Our photos feature bespoke compositions, are illuminated with professional light
 
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/portrait.jpg"/></div>
 <div class="box">
-<h2> Serving Boston and New England! </h2>
+<h2> Limited Time Special Offers </h2>
+&nbsp;<br/>
 50% OFF for First Time Customers! <br/>&nbsp;<br/>
 25% OFF a future purchase when you refer a friend! 
 </div> <!-- end box -->
