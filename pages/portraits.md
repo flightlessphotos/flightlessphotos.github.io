@@ -9,7 +9,7 @@ permalink: /portraits
 <div class="white-block">
 <div class="row">
 
-My photos feature bespoke compositions, are illuminated with professional lighting, captured using precision camera equipment, and hand edited to deliver your perfect look.
+I use professional lighting and precision camera equipment to illuminate and capture your perfect look. My work features bespoke compositions, and every image is individually hand edited with an attention to detail to deliver the highest quality portraits.
 
 </div> <!-- end row -->
 </div> <!-- end white-block -->
