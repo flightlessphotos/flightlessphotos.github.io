@@ -4,7 +4,7 @@ title: Kids Personality Photography
 permalink: /personality
 accordion: 
   - title: Preperation is Key
-    content: A little bit of planning goes a long way. It is hard to be happy when you are hungry, so make sure your kid has a chance to eat before you arrive (and before they change into the outfit they will be wearing)! Please don't bring food, snacks, or drinks to the studio, or even with you in the car.
+    content: A little bit of planning goes a long way. It is hard to be happy when you are hungry, so make sure your kid has a chance to eat before you arrive (and before they change into the outfit they will be wearing)! Please don't bring food, snacks, or drinks to the studio, or even with you in the car. That is just a disaster waiting to happen. Right after you arrive, wipe your child's face before getting out of the car. It's best to get anything unpleasant done right away so they have a chance to get past it emotionally and be ready to have fun getting their picture taken once you are inside.
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
