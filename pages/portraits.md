@@ -24,7 +24,8 @@ Our photos feature bespoke compositions, are illuminated with professional light
 <h2> Limited Time Special Offers </h2>
 &nbsp;<br/>
 50% OFF for First Time Customers! <br/>&nbsp;<br/>
-25% OFF a future purchase when you refer a friend! 
+25% OFF a future purchase when you refer a friend! <br/>&nbsp;<br/>
+ <a href="{{ site.github.url }}/booking">Book Now</a>
 </div> <!-- end box -->
 
 </div> <!-- end row -->
