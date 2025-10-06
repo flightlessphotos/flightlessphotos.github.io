@@ -7,7 +7,12 @@ disqus:
 google-ID: 'G-85N53KKHHD'
 
 menu:
-- {name: 'Portraits',  url: 'portraits'}
+- name: 'Portraits'
+  url: 'portraits'
+  submenu:
+    - {name: 'Maternity', url: 'maternity'}
+    - {name: 'Kids Personality', url: 'personality'}
+    - {name: 'Sports', url: 'sports'}
 - {name: 'Cosplay',    url: 'cosplay'}
 - {name: 'Pets',       url: 'pets'}
 - {name: 'Events',     url: 'events'}
