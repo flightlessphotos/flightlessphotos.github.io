@@ -37,7 +37,7 @@ Studio lighting (including colored lights and effects!), the perfect setting for
 Some photographers have a particular artistic style they like to stick with, which I respect. 
 However, I believe when it comes to cosplay the best photos are those where the style matches the character and suits the mood. 
 My goal in collaborating with you is to magnify you and your character's style. 
-Should it be bold, retro, dark, whimsicle? 
+Should it be bold, retro, dark, whimsical? 
 My style is elevating your style.
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay-chosenofbhaal.jpg"/></div>
