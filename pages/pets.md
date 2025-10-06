@@ -35,7 +35,7 @@ Don't forget anyone's picture when you send out this years greeting cards!
 <div class="box">
 <h2> School Yearbook Pet Portraits </h2>
 We are pleased to offer our signature "School Yearbook Style" photos for your pet!
-Choose from a variety of of classic '90s and '00s style backgrounds.
+Choose from a variety of classic '90s and '00s style backgrounds.
 Great for creating wallet sized prints you can show off to other parents.
 
 </div> <!-- end box -->
