@@ -13,8 +13,9 @@ Maternity photoshoots are typically best at about 30 to 34 weeks, when your bell
 We know you will have plenty going on in your life.
 The reality of your little one's arrival is starting to feel a bit more real each day.
 So we know that what you definitely do not need is any extra stress or drama!
-Our goal is for this photoshoot to make you feel strong and beautiful, to have some fun being the center of attention, and to end up with fantastic photos of this period of your life without any extra pressure. 
-
+Our goal is for this photoshoot to make you feel strong and beautiful, to have some fun being the center of attention, and end up with fantastic photos of this period of your life without any extra pressure. 
+ <br>
+ <a href="{{ site.github.url }}/booking" style="display: inline-block; margin-top: 0.5em;">Book Now</a>
 
 
 {% include image-gallery.html folder="/assets/img/maternity/examples" %}
