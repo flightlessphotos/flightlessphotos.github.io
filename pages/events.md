@@ -19,3 +19,5 @@ We are please to offer our services for
  - Parties of any size
 
 Please Note: We are not currently booking weddings, except for "B-roll" (i.e. no primary photography). 
+
+ <a href="{{ site.github.url }}/booking" >Book Now</a>

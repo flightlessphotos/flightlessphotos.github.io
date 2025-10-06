@@ -15,7 +15,7 @@ permalink: /cosplay
 You have spent hours crafting your cosplay, now let me help you show off your talent with professional photography that will have you looking your best! 
 I am now booking affordable, private, cosplay photoshoots in Boston and the greater New England area year round. 
 If you like the picture I took of you at the convention, you will love what I can do for you during a dedicated photo shoot. 
-<a href="{{ site.github.url }}/cosplay/portraits" style="display: inline-block; margin-top: 0.5em;">Learn more</a>
+<a href="{{ site.github.url }}/cosplay/portraits" style="display: inline-block; margin-top: 0.5em;">Learn more...</a>
 
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/sabine-square.jpg" style="max-height: 350px; max-width: 350px;"/></div>

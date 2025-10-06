@@ -13,6 +13,7 @@ permalink: /cosplay/portraits
 It is super fun showing off your cosplay at conventions, but it is not necessarily the best time for a high quality photoshoot. 
 Sure, everyone is super excited and the adrenaline is high, but we are all busy and in a hurry, our costumes are not in the best shape after bumping into people while walking around, your makeup isn't quite what it was this morning, you haven't been eating very healthy... (I mean, you have been eating, right?) 
 Yet somehow we manage to make it work anyway!
+ <a href="{{ site.github.url }}/booking" style="display: inline-block; margin-top: 0.5em;">Book Now</a>
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay-musketeer.jpg"/></div>
 </div> <!-- end row -->
