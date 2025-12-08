@@ -28,7 +28,7 @@ We take all sports seriously.
 &nbsp;<br/>
 I have over 25 years of climbing experience. 
 <br/>
- <a href="{{ site.github.url }}/sports/climbing">Book Now</a>
+ <a href="{{ site.github.url }}/climbing">Book Now</a>
 </div> <!-- end box -->
 
 </div> <!-- end row -->
@@ -44,7 +44,7 @@ I have over 25 years of climbing experience.
 Surf waves, steep creeks, and big water.
 If you live for whitewater, I can capture you in your element.
 
-<a href="{{ site.github.url }}/sports/whitewater">Learn more...</a>
+<a href="{{ site.github.url }}/whitewater">Learn more...</a>
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
 </div> <!-- end row -->
