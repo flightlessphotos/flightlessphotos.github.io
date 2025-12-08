@@ -5,6 +5,7 @@ permalink: /portraits
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 <div class="white-block">
 <div class="row">
@@ -25,7 +26,10 @@ I use professional lighting and precision camera equipment to illuminate and cap
 &nbsp;<br/>
 50% OFF for First Time Customers! <br/>&nbsp;<br/>
 25% OFF a future purchase when you refer a friend! <br/>&nbsp;<br/>
- <a href="{{ site.github.url }}/booking">Book Now</a>
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 
 </div> <!-- end row -->
@@ -61,8 +65,13 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
  Kids grow up so fast! 
  Let's create a timeless keepsake showcasing who they are at this moment in their lives. 
  Instead of fake smiles or awkward poses like you get from school photos, I capture your child just being themselves - whether they are silly, shy, or full of energy!
-<a href="{{ site.github.url }}/personality" style="display: inline-block; margin-top: 0.5em;">Learn more...</a>
+
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+  <a class="button button-color" href="{{ site.github.url }}/personality">Learn More</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
+
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
@@ -79,7 +88,11 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
  Your body is changing, growing with new life, and radiating beauty. 
  You deserve to feel like the strong, beautiful, proud, and amazing mother you are already becoming!
  We want to help you capture and preserve these moments as a memory you can cherish forever as you embark on a grand new adventure in life!
- <a href="{{ site.github.url }}/maternity" style="display: inline-block; margin-top: 0.5em;">Learn more...</a>
+
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/maternity">Learn More</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 
 </div> <!-- end row -->
@@ -93,8 +106,14 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 Sports were invented to make people look really cool. 
 You might be good, but do you have pictures complete with colored lights and smoke to back it up?
 Get ready to impress your friends with photos from our sports photoshoot!
-<a href="{{ site.github.url }}/portraits/sports" style="display: inline-block; margin-top: 0.5em;">Learn more</a>
-</div>
+
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+  <a class="button button-color" href="{{ site.github.url }}/portraits/sports">Learn More</a>
+</div> <!-- end button -->
+
+</div> <!-- end box -->
+
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/sports/examples/DSC03676.jpg"/></div>
 </div>
 </div>
