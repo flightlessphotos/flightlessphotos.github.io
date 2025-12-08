@@ -20,6 +20,7 @@ accordion:
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 
 <div class="white-block">
@@ -41,7 +42,11 @@ Do they like reading?
 Every personality shoot is different and a unique experience, because every child is different. 
 I will work with you before you come to the shoot to learn as much as I can about what your kid is like and come up with ideas specifically for them. 
 Once you arrive, I engage with your child and get to know them so I can help them feel comfortable. 
- <a href="{{ site.github.url }}/booking" style="display: inline-block; margin-top: 0.5em;">Book Now</a>
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
+
 </div> <!-- end box -->
 </div> <!-- end row -->
 </div> <!-- end color-block -->
