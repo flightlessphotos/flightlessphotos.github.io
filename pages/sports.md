@@ -31,7 +31,7 @@ I have over 25 years of climbing experience.
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="{{ site.github.url }}/climbing">Learn More</a>
-</div>
+</div> <!-- end button -->
 </div> <!-- end box -->
 
 </div> <!-- end row -->
@@ -50,7 +50,7 @@ If you live for whitewater, I can capture you in your element.
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
   <a class="button button-color" href="{{ site.github.url }}/whitewater">Learn More</a>
-</div>
+</div> <!-- end button -->
 
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
@@ -66,8 +66,11 @@ If you live for whitewater, I can capture you in your element.
 <h2> Sports Portraits </h2>
 Colored lights, smoke, drama. 
 Look your best. 
-<br/>
- <a href="{{ site.github.url }}/portraits/sports">Learn More</a>
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/portraits/sports">Learn More</a>
+</div> <!-- end button -->
+
 </div> <!-- end box -->
 
 </div> <!-- end row -->
