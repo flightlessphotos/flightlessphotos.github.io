@@ -47,7 +47,9 @@ I have over 25 years of climbing experience.
 Surf waves, steep creeks, and big water.
 If you live for whitewater, I can capture you in your element.
 
-<a href="{{ site.github.url }}/whitewater">Learn more...</a>
+<br/>&nbsp;<br/>
+<div class="button-wrapper"><a class="button button-color" href="{{ site.github.url }}/whitewater">Learn More</a></div>
+
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
 </div> <!-- end row -->

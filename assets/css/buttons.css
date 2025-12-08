@@ -16,3 +16,8 @@
     background-color: #ffffff;
     color: #000000 !important;   /* override the '.color-block a' rule */
 }
+
+.button-color {
+    background-color:: #666666;
+    color: #fff !important;   /* override the '.color-block a' rule */
+}
