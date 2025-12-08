@@ -14,7 +14,5 @@
 
 .button-white {
     background-color: #ffffff;
-}
-.button-white a {
-    color: #000000;
+    color: #000000 !important;   /* override the '.color-block a' rule */
 }

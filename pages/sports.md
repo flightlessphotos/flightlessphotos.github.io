@@ -28,7 +28,7 @@ We take all sports seriously.
 <div class="box">
 <h2> Climbing Photography</h2>
 I have over 25 years of climbing experience. 
-<br/>
+<br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="{{ site.github.url }}/climbing">Learn More</a>
 </div>
