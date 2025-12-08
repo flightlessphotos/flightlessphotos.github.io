@@ -18,6 +18,6 @@
 }
 
 .button-color {
-    background-color:: #666666;
-    color: #fff !important;   /* override the '.color-block a' rule */
+    background-color: #666666;
+    color: #ffffff !important;   /* override the '.color-block a' rule */
 }
