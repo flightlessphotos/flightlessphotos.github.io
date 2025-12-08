@@ -23,7 +23,7 @@ Because these are not just pictures, they are a testament to your passion, and e
 Baseball, Basketball, Biking, Crew, Cross Country, Cheerleading, Climbing, Dance, Diving, Fencing, Football, Golf, Gymnastics, Hockey, Lacrosse, Lifting, Paddling & Rowing, Skating, Skiing & Snowboarding, Soccer, Softball, Swimming, Tennis, Track & Field, Ultimate, Volleyball, Water Polo, Wrestling.
 We take all sports seriously. 
 
-{% include image-gallery.html folder="/assets/img/sports/examples" %}
+{% include image-gallery.html folder="/assets/img/portraits/sports/examples" %}
 
 <!-- Image Gallery / Lightbox Content. These go at the footer of the page. -->
 <script type="text/javascript" src="/assets/js/lightbox.js"></script>
