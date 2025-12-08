@@ -12,6 +12,7 @@ permalink: /sports
 
 Capture your hard earned moments that are hard to capture with Flightless Photos sports photography. 
 
+<br/>&nbsp;<br/>
 Baseball, Basketball, Biking, Crew, Cross Country, Cheerleading, Climbing, Dance, Diving, Fencing, Football, Golf, Gymnastics, Hockey, Lacrosse, Lifting, Paddling & Rowing, Skating, Skiing & Snowboarding, Soccer, Softball, Swimming, Tennis, Track & Field, Ultimate, Volleyball, Water Polo, Wrestling.
 We take all sports seriously. 
 
