@@ -5,7 +5,7 @@ permalink: /climbing
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
-
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 <div class="white-block">
 I have been climbing for over 25 years.
@@ -25,7 +25,11 @@ Not only can I take care of myself at a crag, on the wall, or in the back countr
 I have technical rope skills, up-to-date wilderness first aid training, and have learned many lessons "the hard way" over the years.
 Although I have plenty of practical experience with what "inheriently dangerous" actually means, I have learned to be a very calculated risk taker.
 I will make sure we all come back, and with plenty of photos worth braging about.
- <a href="{{ site.github.url }}/booking" style="display: inline-block; margin-top: 0.5em;">Book Now</a>
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
+
 </div> <!-- end box -->
 </div> <!-- end row -->
 </div> <!-- end color-block -->
