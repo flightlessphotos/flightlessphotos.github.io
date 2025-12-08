@@ -50,6 +50,10 @@ If you live for whitewater, I can capture you in your element.
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<div class="color-block">
+<div class="row">
+
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/sports/examples/DSC03676.jpg"/></div>
 <div class="box">
 <h2> Sports Portraits </h2>
