@@ -30,7 +30,7 @@ We take all sports seriously.
 I have over 25 years of climbing experience. 
 <br/>
 <div class="button-wrapper">
- <a class="button button-white"> href="{{ site.github.url }}/climbing">Book Now</a>
+ <a class="button button-white" href="{{ site.github.url }}/climbing">Book Now</a>
 </div>
 </div> <!-- end box -->
 
