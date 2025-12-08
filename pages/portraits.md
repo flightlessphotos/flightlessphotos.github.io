@@ -93,7 +93,7 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 Sports were invented to make people look really cool. 
 You might be good, but do you have pictures complete with colored lights and smoke to back it up?
 Get ready to impress your friends with photos from our sports photoshoot!
-<a href="{{ site.github.url }}/sports" style="display: inline-block; margin-top: 0.5em;">Learn more</a>
+<a href="{{ site.github.url }}/portraits/sports" style="display: inline-block; margin-top: 0.5em;">Learn more</a>
 </div>
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/sports/examples/DSC03676.jpg"/></div>
 </div>

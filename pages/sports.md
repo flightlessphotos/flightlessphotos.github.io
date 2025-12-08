@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sports Photography
-permalink: /sports
+title: Sports Portraits
+permalink: /portraits/sports
 ---
 
 You have put in the work. Hours of practice... No, Days. Weeks? Years! 
