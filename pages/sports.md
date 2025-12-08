@@ -6,6 +6,7 @@ permalink: /sports
 
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 <div class="white-block">
 <div class="row">
@@ -26,10 +27,11 @@ We take all sports seriously.
 <div class="box"><img src="{{ site.github.url }}/assets/img/sports/climbing/highwall.jpg"/></div>
 <div class="box">
 <h2> Climbing Photography</h2>
-&nbsp;<br/>
 I have over 25 years of climbing experience. 
 <br/>
- <a href="{{ site.github.url }}/climbing">Book Now</a>
+<div class="button-wrapper">
+ <a class="button button-white"> href="{{ site.github.url }}/climbing">Book Now</a>
+</div>
 </div> <!-- end box -->
 
 </div> <!-- end row -->

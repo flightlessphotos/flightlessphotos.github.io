@@ -1,0 +1,18 @@
+.button-wrapper {
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.button {
+    border: 1px solid #000000;
+    color: #000000;
+    border-radius: 0;
+    /*font-size: 22px;*/
+    padding: 15px 55px;
+    display: inline-block;
+    text-align: center;
+}
+
+.button-white {
+    background-color: #ffffff;
+}
