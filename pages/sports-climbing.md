@@ -41,7 +41,7 @@ I will make sure we all come back, and with plenty of photos worth braging about
 <div class="box">
 <h2> More than Photographs </h2>
 You have plenty of pictures taken by friends. 
-Now it is time to get some photographs worth a fancy frames hanging in your parent's living room. 
+Now it is time to get some photographs worthy of a fancy frame hanging in your parent's living room. 
 But I am a climber too, so I'm going to take it one step further and capture the feelings and emotions you experience while climbing.
 Whether you are locked-in focused, pumped, afraid, exposed, in pain, or full of zen, I take photos that tell a story.
 <br/>&nbsp;<br/>
