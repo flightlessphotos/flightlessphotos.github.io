@@ -11,6 +11,7 @@ menu:
 - {name: 'Cosplay',    url: 'cosplay'}
 - {name: 'Pets',       url: 'pets'}
 - {name: 'Events',     url: 'events'}
+- {name: 'Sports',     url: 'sports'}
 - {name: 'About',      url: 'about'}
 - {name: 'Booking',    url: 'booking'}
 
