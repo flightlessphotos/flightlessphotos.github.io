@@ -12,6 +12,7 @@ I have been climbing for over 25 years.
 Originally from West Virginia, I got an early start as a teenager climbing in the New River Gorge and Seneca Rocks.
 Since then, I have climbed everywhere from the beaches of California to Acadia National Park in Maine. 
 I've been through many different phases, including highball boudering, sport climbing, ice, trad, multipitch, and deepwater soloing. 
+When it comes to photographing climbing, there is simply no substitute for experience.
 </div> <!-- end white-block -->
 
 <div class="color-block">
@@ -40,9 +41,13 @@ I will make sure we all come back, and with plenty of photos worth braging about
 <div class="box">
 <h2> More than Photographs </h2>
 You have plenty of pictures taken by friends. 
-Now it is time to get some photographs worth mounting in large fancy frames and hanging on the living room wall of your parent's house. 
+Now it is time to get some photographs worth a fancy frames hanging in your parent's living room. 
 But I am a climber too, so I'm going to take it one step further and capture the feelings and emotions you experience while climbing.
 Whether you are locked-in focused, pumped, afraid, exposed, in pain, or full of zen, I take photos that tell a story.
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/sports/climbing/pullingroof.jpg"/></div>
 </div> <!-- end row -->
