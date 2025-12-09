@@ -19,7 +19,7 @@ Our goal is for this photoshoot to make you feel strong and beautiful, to have s
 <div class="button-wrapper">
   <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
 </div> <!-- end button -->
-
+<br/>&nbsp;<br/>
 
 {% include image-gallery.html folder="/assets/img/maternity/examples" %}
 
