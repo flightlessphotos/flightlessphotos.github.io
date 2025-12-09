@@ -4,6 +4,7 @@ title: Maternity Portraits
 permalink: /maternity
 ---
 
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 
 <b>Congratulations!</b> We are genuinely excited for you and your family, and are here to help celebrate you, your body, motherhood, your growing family, and this phase of your life!
