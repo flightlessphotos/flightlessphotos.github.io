@@ -8,10 +8,9 @@ permalink: /whitewater
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 <div class="white-block">
-I have been climbing for over 25 years.
-Originally from West Virginia, I got an early start as a teenager climbing in the New River Gorge and Seneca Rocks.
-Since then, I have climbed everywhere from the beaches of California to Acadia National Park in Maine. 
-I've been through many different phases, including highball boudering, sport climbing, ice, trad, multipitch, and deepwater soloing. 
+I started whitewater kayaking at the age of 14, and frequently paddled the New, Cheat, Middle and Lower Gauley, and Lower Yaugh before moving to Boston in 2009. 
+I'm now a member of the Boston Chapter of the AMC, and I still paddle the Dagger RPM I bought over 25 years ago.
+
 When it comes to photographing climbing, there is simply no substitute for experience.
 </div> <!-- end white-block -->
 
@@ -19,13 +18,11 @@ When it comes to photographing climbing, there is simply no substitute for exper
 <div class="row">
 <div class="box"><img src="{{ site.github.url }}/assets/img/sports/whitewater/ww2.jpg"/></div>
 <div class="box">
-<h2> Veteran Presence </h2>
-I am more than just your photographer. 
-Far from being a bystander or a liability, I know what is going on. 
-Not only can I take care of myself at a crag, on the wall, or in the back country, I can work as a member of your team.
-I have technical rope skills, up-to-date wilderness first aid training, and have learned many lessons "the hard way" over the years.
-Although I have plenty of practical experience with what "inheriently dangerous" actually means, I have learned to be a very calculated risk taker.
-I will make sure we all come back, and with plenty of photos worth braging about.
+<h2> TODO </h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="{{ site.github.url }}/booking">Book Now</a>
@@ -39,11 +36,11 @@ I will make sure we all come back, and with plenty of photos worth braging about
 <div class="white-block">
 <div class="row">
 <div class="box">
-<h2> More than Photographs </h2>
-You have plenty of pictures taken by friends. 
-Now it is time to get some photographs worthy of a fancy frame hanging in your parent's living room. 
-But I am a climber too, so I'm going to take it one step further and capture the feelings and emotions you experience while climbing.
-Whether you are locked-in focused, pumped, afraid, exposed, in pain, or full of zen, I take photos that tell a story.
+<h2> TODO </h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
