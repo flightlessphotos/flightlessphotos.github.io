@@ -53,7 +53,7 @@ If you live for whitewater, I can capture you in your element.
 </div> <!-- end button -->
 
 </div> <!-- end box -->
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
+<div class="box"><img src="{{ site.github.url }}/assets/img/sports/whitewater/ww1.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
