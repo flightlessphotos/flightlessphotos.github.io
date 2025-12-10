@@ -19,8 +19,9 @@ I have also always loved taking pictures of whitewater, and always bring my trus
 <div class="box"><img src="{{ site.github.url }}/assets/img/sports/whitewater/ww2.jpg"/></div>
 <div class="box">
 <h2> Make a Splash </h2>
-Whether you are into playboating, sending steep creeks, running big water, or just out for a fun time down some class I-II, I can get epic photos of you on the water. 
-The same brightly colored equipment that helps keep us safe turns you into a vibrant subject against the beautiful scenery of the river.
+Whether you are into playboating, sending steep creeks, running big water, or just out for a fun time on some class I-II rivers, I can get epic photos of you on the water. 
+The same brightly colored equipment that helps keep us safe also turns you into a vibrant subject against the beautiful scenery of the river.
+From the Deerfield to the Kennebec, I photograph all of New Englands best whitewater locations.
 Kayaks, canoes, and inflatables large and small - all boats are beautiful!
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
@@ -36,6 +37,10 @@ Kayaks, canoes, and inflatables large and small - all boats are beautiful!
 <div class="row">
 <div class="box">
 <h2> Getting the Hard Shots </h2>
+Light reflecting off the water
+hard to reach locations that may involved paddling or hiking to get there
+carrying equipement in pelican cases
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
