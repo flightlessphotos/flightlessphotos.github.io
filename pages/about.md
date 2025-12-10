@@ -6,15 +6,19 @@ permalink: /about
 
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 <div class="white-block">
 <div class="row">
 <div class="box">
   <h2>Meet Dan</h2>
-Dan is a New England (Boston-based) professional photographer specializing in portraits, cosplay, outdoor activities, and pets! He is family friendly and does not bite. 
+Dan is a New England (Boston-based) professional photographer specializing in portraits, cosplay, outdoor activities, and pets! He is family friendly, easy to work with, and does not bite. 
 In addition to photography, Dan also loves penguins and taking pictures of penguins.
 He likes penguins so much he named his photography company after the flightless birds! 
-
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/booking">Let's Work Together!</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/about/dan.jpg"/></div>
 </div> <!-- end row -->
@@ -28,7 +32,11 @@ He likes penguins so much he named his photography company after the flightless 
 <h2>Diversity and Inclusivity</h2>
 We believe diversity is important, and proudly work with anyone regardless of social and ethnic background, gender, and sexual orientations. 
 We love our LGBTQIA+ and neurodivergent friends!
-<!--We work with everyone except for racists, we do not work with racists. -->
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/booking">Book With Pride!</a>
+</div> <!-- end button -->
+<!--I work with everyone except for racists, I do not work with racists. -->
 </div> <!-- end box -->
 </div> <!-- end row -->
 </div> <!-- end color-block -->
