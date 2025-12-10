@@ -11,7 +11,7 @@ permalink: /climbing
 I have been climbing for over 25 years.
 Originally from West Virginia, I got an early start as a teenager climbing in the New River Gorge and Seneca Rocks.
 Since then, I have climbed everywhere from the beaches of California to Acadia National Park in Maine. 
-I've been through many different phases, including highball boudering, sport climbing, ice, trad, multipitch, and deepwater soloing. 
+I've been through many different phases, including highball bouldering, sport climbing, ice, trad, multipitch, and deepwater soloing. 
 When it comes to photographing climbing, there is simply no substitute for experience.
 </div> <!-- end white-block -->
 
@@ -24,8 +24,8 @@ I am more than just your photographer.
 Far from being a bystander or a liability, I know what is going on. 
 Not only can I take care of myself at a crag, on the wall, or in the back country, I can work as a member of your team.
 I have technical rope skills, up-to-date wilderness first aid training, and have learned many lessons "the hard way" over the years.
-Although I have plenty of practical experience with what "inheriently dangerous" actually means, I have learned to be a very calculated risk taker.
-I will make sure we all come back, and with plenty of photos worth braging about.
+Although I have plenty of practical experience with what "inherently dangerous" actually means, I have learned to be a very calculated risk taker.
+I will make sure we all come back, and with plenty of photos worth bragging about.
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="{{ site.github.url }}/booking">Book Now</a>
