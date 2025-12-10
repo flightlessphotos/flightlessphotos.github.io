@@ -37,14 +37,12 @@ Kayaks, canoes, and inflatables large and small - all boats are beautiful!
 <div class="row">
 <div class="box">
 <h2> Getting the Hard Shots </h2>
-Light reflecting off the water
-hard to reach locations that may involved paddling or hiking to get there
-carrying equipement in pelican cases
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Whitewater can be some of the most challenging locations to photograph.
+Difficult to reach locations mean paddling, hiking, or even rappelling to get to the right spot.
+Harsh direct sunlight reflecting off the water, and deep shadows cast by trees make for worst case scenario lighting.
+The relentless and unforgiving pace of the water results in moments so fast if you blink you miss the shot.
+Thousands of dollars in camera equipment being used in a high risk environment.
+I am confident that I am up to your challenge.
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
