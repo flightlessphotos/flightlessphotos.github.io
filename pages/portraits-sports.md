@@ -3,6 +3,7 @@ layout: page
 title: Sports Portraits
 permalink: /portraits/sports
 ---
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 You have put in the work. Hours of practice... No, Days. Weeks? Years! 
 You have pushed yourself to be the best you can be, and it has paid off. 
