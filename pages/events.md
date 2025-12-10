@@ -24,5 +24,4 @@ Please Note: We are not currently booking weddings, except for "B-roll" (i.e. no
 <div class="button-wrapper">
   <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
 </div> <!-- end button -->
-<br/>&nbsp;<br/>
 
