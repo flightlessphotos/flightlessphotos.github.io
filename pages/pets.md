@@ -5,6 +5,7 @@ permalink: /pets
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 <!-- We understand, your pet is an important member of your family. -->
 
@@ -14,7 +15,10 @@ permalink: /pets
 <h2>Pets are family too</h2>
 And they deserve our care, attention, and many, many, cute photos! 
 Everyone has their own unique personality, including our favorite furry friends, and we are here to help you capture those purrfect memories. 
- <a href="{{ site.github.url }}/booking" style="display: inline-block; margin-top: 0.5em;">Book Now</a>
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/pets/pets-burst.jpg"/></div>
 </div> <!-- end row -->
@@ -26,6 +30,10 @@ Everyone has their own unique personality, including our favorite furry friends,
 <div class="box">
 <h2>Holiday Photos</h2>
 Don't forget anyone's picture when you send out this years greeting cards!
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 </div> <!-- end row -->
 </div> <!-- end color-block -->
@@ -37,7 +45,10 @@ Don't forget anyone's picture when you send out this years greeting cards!
 We are pleased to offer our signature "School Yearbook Style" photos for your pet!
 Choose from a variety of classic '90s and '00s style backgrounds.
 Great for creating wallet sized prints you can show off to other parents.
-
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/pets/pets-yearbook1.jpg"/></div>
 </div> <!-- end row -->
