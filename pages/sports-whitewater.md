@@ -42,7 +42,7 @@ Difficult to reach locations mean paddling, hiking, or even rappelling to get to
 Harsh direct sunlight reflecting off the water, and deep shadows cast by trees make for worst case scenario lighting.
 The relentless and unforgiving pace of the water results in moments so fast if you blink you miss the shot.
 Thousands of dollars in camera equipment being used in a high risk environment.
-I am confident that I am up to your challenge.
+I do it all, I am confident that I am up to your challenge.
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
