@@ -12,6 +12,7 @@ menu:
 - {name: 'Pets',       url: 'pets'}
 - {name: 'Events',     url: 'events'}
 - {name: 'Sports',     url: 'sports'}
+- {name: 'Galleries',  url: 'galleries'}
 - {name: 'About',      url: 'about'}
 - {name: 'Booking',    url: 'booking'}
 
