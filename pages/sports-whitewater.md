@@ -10,7 +10,7 @@ permalink: /whitewater
 <div class="white-block">
 I started whitewater kayaking as a teenager growing up in West Virginia, frequently paddling the New, Cheat, Gauley, and Yaugh until I moved to Boston in 2009. 
 I'm now a member of the Boston Chapter of the AMC, and I still paddle the Dagger RPM I bought over 25 years ago.
-I have also always loved taking pictures of whitewater, and always bring my trusty waterproof camera with me when I'm paddling.
+I have also always loved taking pictures of whitewater, and always have my trusty camera with me when I'm paddling so I never miss a shot.
 
 </div> <!-- end white-block -->
 
