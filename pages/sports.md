@@ -28,7 +28,9 @@ We take all sports seriously.
 <div class="box">
 <h2> Climbing Photography</h2>
 With over 25 years of experience, I know a thing or two about climbing - including how to take some epic pictures.
-Any type of climbing, any objective, any time of year, I'm ready to go.
+I know that getting really good photos of climbing with just your phone is really hard, which is why I use a very, very expensive camera setup for shooting climbers.
+Climbing is a true passion of mine, and one of the few things I have spent more money on than my photography equipment.
+Any type of climbing (sport, trad, ice), any objective (gyms, crags, alpine), any time of year, I'm ready to go.
 Share you passion for climbing with your non-climber friends and family by getting some professional photos of you doing what you do best!
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
