@@ -27,7 +27,9 @@ We take all sports seriously.
 <div class="box"><img src="{{ site.github.url }}/assets/img/sports/climbing/highwall.jpg"/></div>
 <div class="box">
 <h2> Climbing Photography</h2>
-I have over 25 years of climbing experience. 
+With over 25 years of experience, I know a thing or two about climbing - including how to take some epic pictures.
+Any type of climbing, any objective, any time of year, I'm ready to go.
+Share you passion for climbing with your non-climber friends and family by getting some professional photos of you doing what you do best!
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="{{ site.github.url }}/climbing">Learn More</a>
