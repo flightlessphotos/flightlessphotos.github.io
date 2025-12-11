@@ -70,8 +70,9 @@ Get photos that look as good as your run felt when you paddled it!
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/sports/examples/DSC03676.jpg"/></div>
 <div class="box">
 <h2> Sports Portraits </h2>
-Colored lights, smoke, drama. 
-Look your best. 
+Sports were invented to make people look really cool. 
+You might be good, but do you have pictures complete with colored lights and smoke to back it up? 
+Get ready to impress your friends with photos from a sports photoshoot!
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="{{ site.github.url }}/portraits/sports">Learn More</a>
