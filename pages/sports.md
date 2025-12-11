@@ -50,6 +50,8 @@ Share you passion for climbing with your non-climber friends and family by getti
 
 Surf waves, steep creeks, and big water.
 If you live for whitewater, I can capture you in your element.
+As an experienced paddler, I know the difference between when to take pictures and when you need the throw bag.
+Get photos that look as good as your run felt when you paddled it!
 
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
