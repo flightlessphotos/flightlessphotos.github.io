@@ -24,7 +24,7 @@ Everyone has their own unique personality, including our favorite furry friends,
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
-<div class="color-block">
+<div id="holiday" class="color-block">
 <div class="row">
 <div class="box"><img src="{{ site.github.url }}/assets/img/pets/pets-holiday.jpg"/></div>
 <div class="box">
@@ -38,7 +38,7 @@ Don't forget anyone's picture when you send out this years greeting cards!
 </div> <!-- end row -->
 </div> <!-- end color-block -->
 
-<div class="white-block">
+<div id="yearbook" class="white-block">
 <div class="row">
 <div class="box">
 <h2> School Yearbook Pet Portraits </h2>
