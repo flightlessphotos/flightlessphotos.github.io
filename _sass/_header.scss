@@ -129,11 +129,13 @@
     .dropdown {
         position: relative;
         display: inline-block;
+        float: right;
     }
 
     .dropdown-content {
         display: none;
         position: absolute;
+        right: 0;
         background-color: #f9f9f9;
         min-width: 160px;
         box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -145,6 +147,8 @@
         padding: 12px 16px;
         text-decoration: none;
         display: block;
+        text-align: right;
+        font-size: 18px;
     }
 
     .dropdown-content a:hover {
@@ -156,6 +160,55 @@
     }
 
     .dropdown:hover .dropbtn {
+        background-color: #f1f1f1;
+    }
+
+    /* Mobile nested dropdowns for submenus */
+    .mobile-subdropdown {
+        position: relative;
+    }
+
+    .mobile-toggle-checkbox {
+        display: none;
+    }
+
+    .mobile-toggle-label {
+        display: block;
+        padding: 12px 16px;
+        cursor: pointer;
+        font-weight: 600;
+        color: black;
+        text-align: right;
+        font-size: 18px;
+    }
+
+    .mobile-toggle-label:hover {
+        background-color: #f1f1f1;
+    }
+
+    .mobile-subdropdown-content {
+        display: none;
+        background-color: #f0f0f0;
+    }
+
+    .mobile-subdropdown-content a {
+        color: black;
+        padding: 10px 16px;
+        display: block;
+        font-size: 16px;
+        font-weight: 400;
+        text-align: right;
+    }
+
+    .mobile-subdropdown-content a:hover {
+        background-color: #e5e5e5;
+    }
+
+    .mobile-toggle-checkbox:checked~.mobile-subdropdown-content {
+        display: block;
+    }
+
+    .mobile-toggle-checkbox:checked~.mobile-toggle-label {
         background-color: #f1f1f1;
     }
 }
