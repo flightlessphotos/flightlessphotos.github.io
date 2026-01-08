@@ -4,6 +4,7 @@ title: Maternity Portraits
 permalink: /maternity
 ---
 
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 
 <b>Congratulations!</b> We are genuinely excited for you and your family, and are here to help celebrate you, your body, motherhood, your growing family, and this phase of your life!
@@ -14,9 +15,11 @@ We know you will have plenty going on in your life.
 The reality of your little one's arrival is starting to feel a bit more real each day.
 So we know that what you definitely do not need is any extra stress or drama!
 Our goal is for this photoshoot to make you feel strong and beautiful, to have some fun being the center of attention, and end up with fantastic photos of this period of your life without any extra pressure. 
- <br>
- <a href="{{ site.github.url }}/booking" style="display: inline-block; margin-top: 0.5em;">Book Now</a>
-
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+  <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
+<br/>&nbsp;<br/>
 
 {% include image-gallery.html folder="/assets/img/maternity/examples" %}
 

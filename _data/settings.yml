@@ -7,10 +7,26 @@ disqus:
 google-ID: 'G-85N53KKHHD'
 
 menu:
-- {name: 'Portraits',  url: 'portraits'}
+- name: 'Portraits'
+  url: 'portraits'
+  children:
+    - {name: 'Kids Personality', url: 'personality'}
+    - {name: 'Maternity', url: 'maternity'}
+    - {name: 'Sports', url: 'portraits/sports'}
 - {name: 'Cosplay',    url: 'cosplay'}
-- {name: 'Pets',       url: 'pets'}
+- name: 'Pets'
+  url: 'pets'
+  children:
+    - {name: 'Holiday', url: 'pets#holiday'}
+    - {name: 'Yearbook', url: 'pets#yearbook'}
 - {name: 'Events',     url: 'events'}
+- name: 'Sports'
+  url: 'sports'
+  children:
+    - {name: 'Climbing', url: 'climbing'}
+    - {name: 'Whitewater', url: 'whitewater'}
+    - {name: 'Sports Portraits', url: 'portraits/sports'}
+- {name: 'Galleries',  url: 'galleries'}
 - {name: 'About',      url: 'about'}
 - {name: 'Booking',    url: 'booking'}
 

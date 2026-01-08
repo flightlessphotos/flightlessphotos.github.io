@@ -5,6 +5,7 @@ permalink: /cosplay/portraits
 ---
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 <div class="white-block">
 <div class="row">
@@ -13,7 +14,10 @@ permalink: /cosplay/portraits
 It is super fun showing off your cosplay at conventions, but it is not necessarily the best time for a high quality photoshoot. 
 Sure, everyone is super excited and the adrenaline is high, but we are all busy and in a hurry, our costumes are not in the best shape after bumping into people while walking around, your makeup isn't quite what it was this morning, you haven't been eating very healthy... (I mean, you have been eating, right?) 
 Yet somehow we manage to make it work anyway!
- <a href="{{ site.github.url }}/booking" style="display: inline-block; margin-top: 0.5em;">Book Now</a>
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay-musketeer.jpg"/></div>
 </div> <!-- end row -->
@@ -27,6 +31,10 @@ Yet somehow we manage to make it work anyway!
 Your talent and hard work deserves to be showcased under the best conditions! 
 Have fun at the con, go home and get some rest, repair and touch up your costume, and then book a dedicated photoshoot with me so we can capture your cosplay the right way! 
 Studio lighting (including colored lights and effects!), the perfect setting for your character, and enough time to slow down and make sure everything is in place.
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 </div> <!-- end row -->
 </div> <!-- end color-block -->
@@ -40,6 +48,10 @@ However, I believe when it comes to cosplay the best photos are those where the 
 My goal in collaborating with you is to magnify you and your character's style. 
 Should it be bold, retro, dark, whimsical? 
 My style is elevating your style.
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-color" href="{{ site.github.url }}/booking">Book Now</a>
+</div> <!-- end button -->
 </div> <!-- end box -->
 <div class="box"><img src="{{ site.github.url }}/assets/img/cosplay/cosplay-chosenofbhaal.jpg"/></div>
 </div> <!-- end row -->

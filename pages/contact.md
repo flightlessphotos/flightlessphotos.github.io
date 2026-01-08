@@ -104,10 +104,20 @@ Please fill out the information below and I will get in touch with you soon.
         <div class="radio">
             <label><input type="radio" name="session" value="event" required="">Event Photography</label>
         </div>
+        <div class="radio">
+            <label><input type="radio" name="session" value="climbing" required="">Sports - Climbing</label>
+        </div>
+         <div class="radio">
+            <label><input type="radio" name="session" value="whitewater" required="">Sports - Whitewater</label>
+        </div>
+         <div class="radio">
+            <label><input type="radio" name="session" value="sports" required="">Sports - Other</label>
+        </div>
+ 
          <div class="radio">
             <label><input type="radio" name="session" value="other" required="">Something else!</label>
         </div>
- 
+
 
          <div>
             <label for="message">Message (optional)</label>
