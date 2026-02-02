@@ -36,5 +36,6 @@ Simply mention FlightlessPhotos.com or tag @flightless.photos on Instagram.
 The license requires giving credit to the creator and copyright holder, Flightless Photos LLC. 
 It allows those who are licensed to copy and distribute the material in any medium or format in unadapted form only, including for commercial purposes. 
 All other use, including use in algorithm training or facial recognition data sets, is strictly forbidden unless explicitly granted in prior writing by the copyright holder. 
+If you are interested in adapting a photo, please contact me via email to ask first. 
 Visit <a href="https://creativecommons.org/licenses/by-nd/4.0/">https://creativecommons.org/licenses/by-nd/4.0</a> for more information.
 </div> <!-- end color-block -->
