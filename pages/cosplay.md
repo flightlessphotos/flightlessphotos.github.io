@@ -29,9 +29,13 @@ If you like the picture I took of you at the convention, you will love what I ca
 
 <div class="color-block">
 <h2>Free Cosplay Portraits at Events and Conventions</h2>
-Flightless Photos has been performing free impromptu professional hallshots for cosplayers since 2018. If I took your picture, I would love for you to use it however you would like! 
-Simply mention FlightlessPhotos.com or tag @flightless.photos on Instagram. 📸 
-Permission to use individual photos is granted to the people appearing in those photos, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). 
-All other use, including use in algorithm training or facial recognition data sets, is strictly forbidden unless explicitly granted by the copyright holder. 
-Visit <a href="https://creativecommons.org/licenses/by-sa/4.0">https://creativecommons.org/licenses/by-sa/4.0</a> for more information.
+Flightless Photos has been performing free impromptu professional hallshots for cosplayers since 2018. 
+If I took your picture, I would love for you to use it! 
+Simply mention FlightlessPhotos.com or tag @flightless.photos on Instagram. 
+📸 Permission to use individual photos is granted to the people appearing in those photos, licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). 
+The license requires giving credit to the creator and copyright holder, Flightless Photos LLC. 
+It allows those who are licensed to copy and distribute the material in any medium or format in unadapted form only, including for commercial purposes. 
+All other use, including use in algorithm training or facial recognition data sets, is strictly forbidden unless explicitly granted in prior writing by the copyright holder. 
+If you are interested in adapting a photo, please contact me via email to ask first. 
+Visit <a href="https://creativecommons.org/licenses/by-nd/4.0/">https://creativecommons.org/licenses/by-nd/4.0</a> for more information.
 </div> <!-- end color-block -->

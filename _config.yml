@@ -13,7 +13,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Flightless Photos"
 description:	       "Boston and New England Photography Services"
-author:              "© Flightless Photos LLC, 2025. All Rights Reserved."
+author:              "© 2026 Flightless Photos LLC. All Rights Reserved."
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
