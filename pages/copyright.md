@@ -1,0 +1,34 @@
+---
+layout: page
+title: Copyright and Usage Information
+permalink: /copyright
+---
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/blocks.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/imgboxrows.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
+
+<div class="white-block">
+All photographs are © Flightless Photos LLC, All rights reserved.
+No material may be used without prior permission from the copyright holder.
+Customers who have a signed contract are typically granted a license that allows for personal use.
+Please refer to your contract for more information. 
+</div> <!-- end white-block -->
+
+
+<div class="color-block">
+<!--<h2>Licenses and Copyright Release</h2>-->
+<h2>Legal Documents and Information</h2>
+For more information about Flightless Photo LLC Copyright, please refer to the below documents.
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/copyright/v1">Copyright Version 1.0</a>
+</div> <!-- end button -->
+
+</div> <!-- end color-block -->
+
+<div class="white-block">
+</div> <!-- end white-block -->
+
+
+
+
