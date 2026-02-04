@@ -8,7 +8,7 @@ permalink: /copyright
 <link rel="stylesheet" href="{{ site.github.url }}/assets/css/buttons.css">
 
 <div class="white-block">
-All photographs are © Flightless Photos LLC, All rights reserved.
+All photographs are © Flightless Photos LLC, All rights reserved.<br/>
 No material may be used without prior permission from the copyright holder.
 </div> <!-- end white-block -->
 
@@ -24,7 +24,7 @@ Please refer to your contract for license information and usage restrictions.
 For more information about Flightless Photo LLC Copyright, please refer to the below documents.
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
- <a class="button button-color" href="{{ site.github.url }}/copyright/1.0/">Version 1.0</a>
+ <a class="button button-color" href="{{ site.github.url }}/copyright-1.0">Version 1.0</a>
 </div> <!-- end button -->
 </div> <!-- end white-block -->
 
