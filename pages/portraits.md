@@ -22,10 +22,12 @@ I use professional lighting and precision camera equipment to illuminate and cap
 
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/portrait.jpg"/></div>
 <div class="box">
-<h2> Limited Time Special Offers </h2>
+<h2> Affordable. Professional. Authentic.  </h2>
 &nbsp;<br/>
-50% OFF for First Time Customers! <br/>&nbsp;<br/>
-25% OFF a future purchase when you refer a friend! <br/>&nbsp;<br/>
+Perfect for Dating Profiles, Social Media Icons, Business Headshots, Author Biographies, Gifts, Keepsakes, and more! <br/>&nbsp;<br/>
+1 Hour Portrait Sessions<br/>
+Starting at $120
+
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
  <a class="button button-white" href="{{ site.github.url }}/booking">Book Now</a>
