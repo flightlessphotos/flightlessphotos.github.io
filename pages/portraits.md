@@ -24,7 +24,7 @@ I use professional lighting and precision camera equipment to illuminate and cap
 <div class="box">
 <h2> Affordable. Professional. Authentic.  </h2>
 &nbsp;<br/>
-Perfect for Dating Profiles, Social Media, Business Headshots, Author Biographies, Greeting Cards, Gifts, Keepsakes, and more! <br/>&nbsp;<br/>
+Perfect for Dating Profiles, Social Media, Business Headshots, Author Biographies, Greeting Cards, Gifts, Keepsakes, and Special Occasions! <br/>&nbsp;<br/>
 <span style="font-weight:bold;text-align:center;">1 Hour Portrait Sessions starting at $120</span>
 
 <br/>&nbsp;<br/>
