@@ -10,7 +10,6 @@ menu:
 - name: 'Portraits'
   url: 'portraits'
   children:
-    - {name: 'Family', url: 'family'}
     - {name: 'Kids Personality', url: 'personality'}
     - {name: 'Maternity', url: 'maternity'}
     - {name: 'Sports', url: 'portraits/sports'}
