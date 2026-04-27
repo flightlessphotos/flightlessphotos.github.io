@@ -31,6 +31,7 @@ He likes penguins so much he named his photography company after the flightless 
 <div class="box">
 <h2>Diversity and Inclusivity</h2>
 We believe diversity is important, and proudly work with anyone regardless of social and ethnic background, gender, and sexual orientations. 
+We also appreciate that everyone is different, and that simple accommodations can make big differences for some of us. 
 We love our LGBTQIA+ and neurodivergent friends!
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
