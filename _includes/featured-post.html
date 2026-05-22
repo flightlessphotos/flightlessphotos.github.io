@@ -1,6 +1,7 @@
 <article>
   {% if post.external_url %}
-  <a href="{{ post.external_url }}">
+  <a href="{{ site.github.url }}{{ post.url }}">
+  <!--a href="{{ post.external_url }}"-->
   {% else %}
   <a href="{{ site.github.url }}{{ post.url }}">
   {% endif %}
