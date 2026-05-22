@@ -1,30 +1,12 @@
----
-layout: default
----
-
-<div class="post-content">
-  <h1>
-    {{ page.title }}
-  </h1>
-  {% if site.hide_post_date != true %}
-    {% include post-date.html %}
-  {% endif %}
-  {% if page.image %}
-    <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
-    </div>
-  {% endif %}
-  <article>
-    {{ content }}
-  </article>
-  {% if site.hide_post_share != true %}
-    {% include post-share.html %}
-  {% endif %}
-  {% if site.hide_related_posts != true %}
-    {% include related-posts.html %}
-  {% endif %}
-  {% if site.data.settings.disqus.comments %}
-    {% include disqus.html %}
-  {% endif %}
-</div>
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Redirecting...</title>
+    <link rel="canonical" href="{{ page.external_url }}" />
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url={{ page.external_url }}" />
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>
