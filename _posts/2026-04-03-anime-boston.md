@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anime Boston 2026"
+permalink: 2026-anime-boston
 author: "Dan"
 categories: cosplay
 tags: [sample]

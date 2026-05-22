@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Wild Rumpus"
+permalink: 2023-wild-rumpus
 author: "Dan"
 categories: events
 tags: [sample]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DragonCon 2021"
+permalink: 2021-dragoncon
 author: "Dan"
 categories: cosplay
 tags: [sample]

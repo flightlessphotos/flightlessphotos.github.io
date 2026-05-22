@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ConnectiCon 2024"
+permalink: 2024-connecticon
 author: "Dan"
 categories: cosplay
 tags: [sample]
