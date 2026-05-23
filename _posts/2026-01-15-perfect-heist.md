@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boxaroo - The Perfect Heist - 2026"
-permalink: 2026-perfect-heist
+permalink: galleries/perfect-heist-2026
 author: "Dan"
 categories: events
 tags: [sample]
