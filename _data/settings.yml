@@ -10,15 +10,17 @@ menu:
 - name: 'Portraits'
   url: 'portraits'
   children:
+    - {name: 'Family',           url: 'family'}
     - {name: 'Kids Personality', url: 'personality'}
-    - {name: 'Maternity', url: 'maternity'}
-    - {name: 'Sports', url: 'portraits/sports'}
+    - {name: 'Maternity',        url: 'maternity'}
+    - {name: 'Pets',             url: 'pets'}
+    - {name: 'Sports',           url: 'portraits/sports'}
 - {name: 'Cosplay',    url: 'cosplay'}
-- name: 'Pets'
-  url: 'pets'
-  children:
-    - {name: 'Holiday', url: 'pets#holiday'}
-    - {name: 'Yearbook', url: 'pets#yearbook'}
+  #- name: 'Pets'
+  #url: 'pets'
+  #children:
+  #  - {name: 'Holiday', url: 'pets#holiday'}
+  #  - {name: 'Yearbook', url: 'pets#yearbook'}
 - {name: 'Events',     url: 'events'}
 - name: 'Sports'
   url: 'sports'
@@ -28,6 +30,7 @@ menu:
     - {name: 'Sports Portraits', url: 'portraits/sports'}
 - {name: 'Galleries',  url: 'galleries'}
 - {name: 'About',      url: 'about'}
+- {name: 'Pricing',    url: 'pricing'}
 - {name: 'Booking',    url: 'booking'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

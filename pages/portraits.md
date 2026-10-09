@@ -62,6 +62,24 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 <div class="white-block">
 <div class="row">
 <div class="box">
+<h2> Family Portraits </h2>
+Family are the most important people in our lives, and that is what makes family portraits so important and special. 
+Whether you are creating new memories, looking for a photo to put on this year's greeting cards, or updating a portrait on the wall, I can help you get the perfect portrait of the people you love the most! 
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+  <a class="button button-color" href="{{ site.github.url }}/family">Learn More</a>
+</div> <!-- end button -->
+</div> <!-- end box -->
+
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/family2.jpg"/></div>
+</div> <!-- end row -->
+</div> <!-- end white-block -->
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<div class="color-block">
+<div class="row">
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
+<div class="box">
 <h2> Kids Personality Portraits </h2>
  Kids grow up so fast! 
  Let's create a timeless keepsake showcasing who they are at this moment in their lives. 
@@ -69,20 +87,18 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
-  <a class="button button-color" href="{{ site.github.url }}/personality">Learn More</a>
+  <a class="button button-white" href="{{ site.github.url }}/personality">Learn More</a>
 </div> <!-- end button -->
 </div> <!-- end box -->
 
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/personality-kids1.jpg"/></div>
 </div> <!-- end row -->
 </div> <!-- end white-block -->
 
+
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
-<div class="color-block">
+<div class="white-block">
 <div class="row">
 
-<!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>-->
-<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/maternity-ms.jpg"/></div>
 <div class="box">
 <h2> Maternity Portraits </h2>
  What a truly amazing time this is for you! 
@@ -92,12 +108,36 @@ Get an up-to-date head shot that is perfect for social media profile pictures an
 
 <br/>&nbsp;<br/>
 <div class="button-wrapper">
- <a class="button button-white" href="{{ site.github.url }}/maternity">Learn More</a>
+ <a class="button button-color" href="{{ site.github.url }}/maternity">Learn More</a>
+</div> <!-- end button -->
+</div> <!-- end box -->
+
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/maternity-ms.jpg"/></div>
+</div> <!-- end row -->
+</div><!-- end color-block -->
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
+<div class="color-block">
+<div class="row">
+
+<!--<div class="imgbox" style="background-image:url('{{ site.github.url }}/assets/img/maternity-ms.jpg')"></div>-->
+<div class="box"><img src="{{ site.github.url }}/assets/img/portraits/pets.jpg"/></div>
+<div class="box">
+<h2> Pet Portraits </h2>
+Your best friends.
+Your most trusted companions.
+They are part of your family.
+I know your phone is already filled with pictures of them, but you should still take the time to get a few realllly nice ones that will look good in a frame on your wall!
+<br/>&nbsp;<br/>
+<div class="button-wrapper">
+ <a class="button button-white" href="{{ site.github.url }}/pets">Learn More</a>
 </div> <!-- end button -->
 </div> <!-- end box -->
 
 </div> <!-- end row -->
 </div><!-- end color-block -->
+
+
 <!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 <div class="white-block">
 <div class="row">
@@ -126,10 +166,10 @@ Get ready to impress your friends with photos from our sports photoshoot!
 <div class="box"><img src="{{ site.github.url }}/assets/img/portraits/portrait-as.jpg"/></div>
 <div class="box">
 <h2> "I don't look good in pictures." </h2>
-If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - we are here for you! 
-You are not alone, lots of people do not naturally feel comfortable in front of a camera, but we can help you be confident and relaxed.
-We will guide you through every step of the process, including what to wear and how to pose.
-We see the beauty in everyone, and want to help you find it.
+If you don't like having your picture taken, think you are not photogenic, or believe that cameras hate you - I am here for you! 
+You are not alone, lots of people do not naturally feel comfortable in front of a camera, but I can help make you feel confident and relaxed so you can be yourself!
+I will guide you through every step of the process, including what to wear and how to pose.
+I see authentic beauty in everyone, and I want to help you find it in yourself.
 Having your picture taken can be fun, let us prove it to you!
 </div> <!-- end box -->
 

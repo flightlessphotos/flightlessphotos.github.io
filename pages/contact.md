@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Contact Me
 permalink: /contact
 ---
 
@@ -13,21 +13,13 @@ window.onbeforeunload = () => {
     form.reset();
   }
 }
+
+// This does not work because we are using formspree.io
+// Typically you would add onsubmit="formRedirect()" to the <form>
+function formRedirect() {
+  window.location.href = '/contact-thanks';
+}
 </script>
-
-<!--
-<div class="white-block">
-I am honored and excited that you are interested in working with me!
-Please fill out the information below and I will get in touch with you soon.
-<p>You can also contact me directly </p>
-<ul>
-  <li>Email <a href="mailto:dan@flightlessphotos.com">dan@flightlessphotos.com</a></li>
-  <li>Text or Call <a href="tel:3047294636">(304) 729-4636</a></li>
-</ul>
-</div> 
--->
-<!-- end white-block -->
-
 
 <div class="white-block">
 <div class="row">
@@ -47,89 +39,14 @@ Please fill out the information below and I will get in touch with you soon.
         </div>
             
         <div>
-            <label for="email">Email address</label>
+            <label for="email">Email address (reply will be sent here!)</label>
             <input type="email" name="email" id="email" class="form-control" required="">
         </div>
 
-        <div>
-            <label for="email">Confirm Email address</label>
-            <input type="confirmemail" name="confirmemail" id="confirmemail" class="form-control" required="">
-        </div>
-
          <div>
-            <label for="phone">Phone</label>
-            <input type="phone" name="phone" id="phone" class="form-control" required="">
+            <label for="message">Message</label>
+            <textarea name="message" id="message" cols="30" rows="10" class="form-control" required=""></textarea>
         </div>
-
-       
-        <div> Preferred Contact Method </div>
-        <div class="radio">
-            <label><input type="radio" name="contactmethod" value="Phone" required="">Phone</label>
-        </div>
-        <div class="radio">
-            <label><input type="radio" name="contactmethod" value="Email" required="">Email</label>
-        </div>
-         <div class="radio">
-            <label><input type="radio" name="contactmethod" value="Text" required="">Text</label>
-        </div>
-        
-        <div> Preferred Contact Time </div>
-        <div class="radio">
-            <label><input type="radio" name="contacttime" value="mornings" required="">Mornings (9am - Noon)</label>
-        </div>
-        <div class="radio">
-            <label><input type="radio" name="contacttime" value="afternoons" required="">Afternoons (Noon - 5pm)</label>
-        </div>
-         <div class="radio">
-            <label><input type="radio" name="contacttime" value="evenings" required="">Evenings (5pm - 8pm)</label>
-        </div>
- 
-
-        <div> Photoshoot Type </div>
-        <div class="radio">
-            <label><input type="radio" name="session" value="cosplay" required="">Cosplay Portraits</label>
-        </div>
-        <div class="radio">
-            <label><input type="radio" name="session" value="kids-personality" required="">Kids Personality Portraits</label>
-        </div>
-        <div class="radio">
-            <label><input type="radio" name="session" value="maternity" required="">Maternity Portraits</label>
-        </div>
-        <div class="radio">
-            <label><input type="radio" name="session" value="sports" required="">Sports Portraits</label>
-        </div>
-        <div class="radio">
-            <label><input type="radio" name="session" value="pets" required="">Pet Portraits</label>
-        </div>
-        <div class="radio">
-            <label><input type="radio" name="session" value="event" required="">Event Photography</label>
-        </div>
-        <div class="radio">
-            <label><input type="radio" name="session" value="climbing" required="">Sports - Climbing</label>
-        </div>
-         <div class="radio">
-            <label><input type="radio" name="session" value="whitewater" required="">Sports - Whitewater</label>
-        </div>
-         <div class="radio">
-            <label><input type="radio" name="session" value="sports" required="">Sports - Other</label>
-        </div>
- 
-         <div class="radio">
-            <label><input type="radio" name="session" value="other" required="">Something else!</label>
-        </div>
-
-
-         <div>
-            <label for="message">Message (optional)</label>
-            <textarea name="message" id="message" cols="30" rows="10" class="form-control"></textarea>
-        </div>
-        
-        <!--
-        <div class="checkbox">
-            <label><input type="checkbox" name="terms" value="I would accept the terms and conditions (if there were any)" required="">I would accept the terms and conditions (if there were any)</label>
-        </div>
-        -->
-        
         
         <div>
             <input type="submit" value="Submit form" class="btn btn-primary">
